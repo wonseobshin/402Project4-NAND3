@@ -1,0 +1,59 @@
+"Cadence Directory" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/.cadence/
+"Current Directory" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds
+"GUI Flow" internal none virtuoso6
+"GUI Preset" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/.preset.autosave
+"Job Signature" internal none IPVS_1573362583_32020
+"PVS Job Mode" internal none drc
+"Run Directory" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC
+"Technology Mapping File" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/pvtech.lib
+"Technology Name" internal none "gpdk045_pvs"
+"Technology Rule File" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/.technology.rul
+"Technology RuleSet" internal none "default"
+"PVS Version" internal none 14.12-s293
+"Binary Name" internal none ipvs
+"PVS Build Date" internal none "Tue Nov 25 18:47:05 PST 2014"
+"PVS Job Time" internal none 1573362583
+"Control File" input text /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/pvsdrcctl
+"DFII version" internal none 6.1.6.8
+"Do not check rules files before run" internal none ENABLED
+"Input Layout" input none OA: ELEC402 NAND3 layout
+"Intermediate GDSII File" output none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds
+"Intermediate GDSII File creation Errors" output none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/PIPO1.LOG
+"Intermediate OASIS File creation Errors" output none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/PIPO1.LOG
+"Job Signature" internal none IPVS_1573362583_32020
+"Layout Cell Name" internal none NAND3
+"Layout ConvertPin" internal text geometry
+"Layout GDSII" input none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds
+"Layout HierDepth" internal none 32
+"Layout Library Name" internal none ELEC402
+"Layout MaxVertices" internal none 2048
+"Layout Scale" internal none 0.0005
+"Layout TechLib" internal none gpdk045
+"Layout Top Cell" internal none NAND3
+"Layout View Name" internal none layout
+"Output Layout Cellmap I" internal text /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/lay_cellMap.txt
+"PIPO Log I" log text  /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/PIPO1.LOG
+"PIPO Output I" internal text  /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/PIPO1.OUT
+"PIPO Setup File I" internal text  /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/pipo1.setup
+"PVS Job Log" log text /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/pvsuidrc.log
+"PVS Job Mode" internal none drc
+"Rule File" input text /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/.technology.rul
+"Run Directory" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC
+"TTE mode" internal none ENABLED
+"PVS Version" internal none 14.12-s293
+"Binary Name" internal none pvsvirt
+"PVS Build Date" internal none "Tue Nov 25 19:09:46 PST 2014"
+"PVS Job Time" internal none 1573362584
+"ASCII DRC Report Database" output rdb /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.drc_errors.ascii
+"DRC Summary" output text /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.sum
+"Layout GDSII" input none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds
+"PVS Job Mode" internal none drc
+"Report MaxResults" internal none 1000
+"Rule File" input text /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/.technology.rul
+"Run Directory" internal none /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/
+"TTE mode" internal none ENABLED
+"UI Data" internal none ENABLED
+"PVS Version" internal none 14.12-s293
+"Binary Name" internal none pvs
+"PVS Build Date" internal none "Tue Nov 25 18:56:05 PST 2014"
+"PVS Job Time" internal none 1573362584

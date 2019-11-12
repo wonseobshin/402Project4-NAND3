@@ -1,0 +1,16 @@
+case	"preserve"
+convertDot	"node"
+convertPin	"geometry"
+hierDepth	32
+labelCase	"preserve"
+labelDepth	32
+library	"ELEC402"
+logFile	"/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/PIPO1.LOG"
+maxVertices	2048
+pinAttNum	0
+runDir	"/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC"
+strmFile	"/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds"
+strmVersion	5
+techLib	"gpdk045"
+topCell	"NAND3"
+view	"layout"

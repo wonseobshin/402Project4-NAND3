@@ -1,0 +1,66 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.6-64b 10/30/2014 22:41 (sjfnl119) $
+          : sub-version  IC6.1.6-64b.500.9 
+Started at: 09-Nov-2019  21:09:44
+User Name : l6w0b
+Host Name : ssh-soc
+Directory : /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+WARNING (XSTRM-20): Output Stream file '/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds' already exists. It will be overwritten.
+INFO (XSTRM-217): Reading the layer map file, /ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/gpdk045.layermap
+INFO (XSTRM-162): You have not used the viaMap option. If the OpenAccess design has native oaVia instances, use the -viaMap option for preserving oaVia instances in a Stream Out - Stream In round trip. Using the -viaMap option improves performance and VM usage of applications using the Streamed-In design.  For details on the viaMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Options :
+library                                 ELEC402
+strmFile                                /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds
+topCell                                 NAND3
+view                                    layout
+runDir                                  /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC
+logFile                                 /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/PIPO1.LOG
+techLib                                 gpdk045
+hierDepth                               32
+maxVertices                             2048
+layerMap                                /ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/gpdk045.layermap
+userSkillFile                           /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/strmout.il
+labelDepth                              32
+case                                    Preserve
+convertDot                              node
+
+INFO (XSTRM-223): 1. Translating cellView gpdk045/M1_PO/layout as STRUCTURE M1_PO$$1
+INFO (XSTRM-223): 2. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v$$2
+INFO (XSTRM-223): 3. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v$$3
+INFO (XSTRM-223): 4. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v$$4
+INFO (XSTRM-223): 5. Translating cellView ELEC402/NAND3/layout as STRUCTURE NAND3
+INFO (XSTRM-180): You have not used the objectMap option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the objectMap option to translate/preserve these objects using XStream. For details on the objectMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Objects Translated:
+	Scalar Instances:                       3
+	Array Instances:                        0
+	Polygons:                               0
+	Paths:                                  0
+	Rectangles:                             111
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           3
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               15
+	Text:                                   0
+	TextDisplay:                            0
+	Cells:                                  5
+
+Elapsed Time: 0.5s   User Time: 0.1s   CPU Time: 0.1s   Peak VM: 4664KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '1' warning(s) found.

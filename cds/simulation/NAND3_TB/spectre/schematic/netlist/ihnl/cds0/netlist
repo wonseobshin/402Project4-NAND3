@@ -1,0 +1,20 @@
+    NM2 (OUT A NM1_D GND) g45n1svt w=(400n) l=120n nf=1 as=56f ad=56f \
+        ps=1.08u pd=1.08u nrd=350m nrs=350m sa=140n sb=140n sd=160n \
+        sca=103.71377 scb=0.08022 scc=0.01157 m=(1)
+    NM1 (NM1_D B NM0_D GND) g45n1svt w=(400n) l=120n nf=1 as=56f ad=56f \
+        ps=1.08u pd=1.08u nrd=350m nrs=350m sa=140n sb=140n sd=160n \
+        sca=103.71377 scb=0.08022 scc=0.01157 m=(1)
+    NM0 (NM0_D C GND GND) g45n1svt w=(400n) l=120n nf=1 as=56f ad=56f \
+        ps=1.08u pd=1.08u nrd=350m nrs=350m sa=140n sb=140n sd=160n \
+        sca=103.71377 scb=0.08022 scc=0.01157 m=(1)
+    PM2 (OUT C VDD VDD) g45p1svt w=(160n) l=120n nf=1 as=22.4f ad=22.4f \
+        ps=600n pd=600n nrd=875m nrs=875m sa=140n sb=140n sd=160n \
+        sca=182.76515 scb=0.10458 scc=0.02194 m=(1)
+    PM1 (OUT B VDD VDD) g45p1svt w=(160n) l=120n nf=1 as=22.4f ad=22.4f \
+        ps=600n pd=600n nrd=875m nrs=875m sa=140n sb=140n sd=160n \
+        sca=182.76515 scb=0.10458 scc=0.02194 m=(1)
+    PM0 (OUT A VDD VDD) g45p1svt w=(160n) l=120n nf=1 as=22.4f ad=22.4f \
+        ps=600n pd=600n nrd=875m nrs=875m sa=140n sb=140n sd=160n \
+        sca=182.76515 scb=0.10458 scc=0.02194 m=(1)
+ends NAND3
+// End of subcircuit definition.

@@ -1,0 +1,1 @@
+technology "gpdk045_pvs" -ruleSet "default" -techLib "/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/pvtech.lib";

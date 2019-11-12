@@ -1,0 +1,58 @@
+// Generated for: spectre
+// Generated on: Nov  8 17:33:06 2019
+// Design library name: ELEC402
+// Design cell name: NAND3_TB
+// Design view name: schematic
+simulator lang=spectre
+global 0
+parameters T=5n
+include "/ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/../models/spectre/gpdk045.scs" section=tt
+
+// Library name: ELEC402
+// Cell name: NAND3
+// View name: schematic
+subckt NAND3 A B C GND OUT VDD
+    NM2 (OUT A NM1_D GND) g45n1svt w=(400n) l=120n nf=1 as=56f ad=56f \
+        ps=1.08u pd=1.08u nrd=350m nrs=350m sa=140n sb=140n sd=160n \
+        sca=103.71377 scb=0.08022 scc=0.01157 m=(1)
+    NM1 (NM1_D B NM0_D GND) g45n1svt w=(400n) l=120n nf=1 as=56f ad=56f \
+        ps=1.08u pd=1.08u nrd=350m nrs=350m sa=140n sb=140n sd=160n \
+        sca=103.71377 scb=0.08022 scc=0.01157 m=(1)
+    NM0 (NM0_D C GND GND) g45n1svt w=(400n) l=120n nf=1 as=56f ad=56f \
+        ps=1.08u pd=1.08u nrd=350m nrs=350m sa=140n sb=140n sd=160n \
+        sca=103.71377 scb=0.08022 scc=0.01157 m=(1)
+    PM2 (OUT C VDD VDD) g45p1svt w=(160n) l=120n nf=1 as=22.4f ad=22.4f \
+        ps=600n pd=600n nrd=875m nrs=875m sa=140n sb=140n sd=160n \
+        sca=182.76515 scb=0.10458 scc=0.02194 m=(1)
+    PM1 (OUT B VDD VDD) g45p1svt w=(160n) l=120n nf=1 as=22.4f ad=22.4f \
+        ps=600n pd=600n nrd=875m nrs=875m sa=140n sb=140n sd=160n \
+        sca=182.76515 scb=0.10458 scc=0.02194 m=(1)
+    PM0 (OUT A VDD VDD) g45p1svt w=(160n) l=120n nf=1 as=22.4f ad=22.4f \
+        ps=600n pd=600n nrd=875m nrs=875m sa=140n sb=140n sd=160n \
+        sca=182.76515 scb=0.10458 scc=0.02194 m=(1)
+ends NAND3
+// End of subcircuit definition.
+
+// Library name: ELEC402
+// Cell name: NAND3_TB
+// View name: schematic
+I0 (V4_PLUS V1_PLUS V2_PLUS 0 I0_OUT I0_VDD) NAND3
+V1 (V1_PLUS 0) vsource dc=1 type=dc
+V2 (V2_PLUS 0) vsource dc=1 type=dc
+V0 (I0_VDD 0) vsource dc=1 type=dc
+V4 (V4_PLUS 0) vsource type=pulse val0=0 val1=1 period=T rise=10p fall=10p
+C0 (I0_OUT 0) capacitor c=10f
+simulatorOptions options reltol=1e-3 vabstol=1e-6 iabstol=1e-12 temp=27 \
+    tnom=27 scalem=1.0 scale=1.0 gmin=1e-12 rforce=1 maxnotes=5 maxwarns=5 \
+    digits=5 cols=80 pivrel=1e-3 sensfile="../psf/sens.output" \
+    checklimitdest=psf 
+tran tran stop=25n write="spectre.ic" writefinal="spectre.fc" \
+    annotate=status maxiters=5 
+finalTimeOP info what=oppoint where=rawfile
+modelParameter info what=models where=rawfile
+element info what=inst where=rawfile
+outputParameter info what=output where=rawfile
+designParamVals info what=parameters where=rawfile
+primitives info what=primitives where=rawfile
+subckts info what=subckts  where=rawfile
+saveOptions options save=allpub

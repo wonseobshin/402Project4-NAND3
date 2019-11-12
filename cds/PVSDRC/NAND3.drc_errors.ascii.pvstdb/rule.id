@@ -1,0 +1,2584 @@
+1573362593
+1 offgrid_check 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+Grid violation
+2 ortho_45_check 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+Orthogonal and 45 degree violation
+3 acute_check 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+Acute angle  violation
+4 soft_check_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_3: ptap missing stamped connections from pdiff_c$$PVS$$
+$$PVS$$onn
+5 soft_check_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_6: psubstrate missing stamped connections from p$$PVS$$
+$$PVS$$tap
+6 soft_check_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_9: ntap missing stamped connections from ndiff_c$$PVS$$
+$$PVS$$onn
+7 soft_check_12 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_12: nwell_conn missing stamped connections from $$PVS$$
+$$PVS$$ntap
+8 soft_check_15 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_15: nb_tap missing stamped connections from nwel$$PVS$$
+$$PVS$$l_conn
+9 soft_check_18 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_18: Nburied missing stamped connections from nb_$$PVS$$
+$$PVS$$tap
+10 NBL.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.W.1: Minimum Nburied Width >= 0.8 um
+11 NBL.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.E.1: Minimum Nburied to Nwell enclosure >= 0.2 um
+12 NBL.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.SP.1: Minimum Nburied to Nburied spacing >= 2.0 um
+13 NBL.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.SE.1: Minimum Nburied to non-related Nwell spacing >= 2$$PVS$$
+$$PVS$$.2 um
+14 NBL.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.SE.2: Minimum Nburied to non-related Oxide spacing >= 1$$PVS$$
+$$PVS$$.2 um
+15 NBL.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.X.1: Nburied must have an Nwell isolation ring
+16 NBL.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.SE.3: Minimum Nwell ring (on Nburied) to P+ Active spac$$PVS$$
+$$PVS$$ing >= 0.09 um
+17 NBL.SE.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NBL.SE.4: Minimum Nwell ring (on Nburied) to N+ Active spac$$PVS$$
+$$PVS$$ing >= 0.09 um
+18 NW.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SP.2: Minimum Nwell spacing to Nwell (different potentia$$PVS$$
+$$PVS$$l) >= 0.6 um
+19 NW.SP.2_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SP.2: Minimum Nwell spacing to Nwell (different potentia$$PVS$$
+$$PVS$$l) >= 0.6 um
+20 NW.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.W.1: Minimum Nwell Width >= 0.3 um
+21 NW.SE.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SE.2: Minimum Nwell spacing to P+ Active Area >= 0.16 um
+22 NW.SE.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SE.1: Minimum Nwell spacing to N+ Active Area >= 0.16 um
+23 NW.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SE.3: Minimum Nwell spacing to N+ 1.8V Active Area >= 0.$$PVS$$
+$$PVS$$24 um
+24 NW.SE.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SE.4: Minimum Nwell spacing to P+ 1.8V Active Area >= 0.$$PVS$$
+$$PVS$$24 um
+25 NW.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.E.1: Minimum Nwell enclosure of N+ Active Area >= 0.06 u$$PVS$$
+$$PVS$$m
+26 NW.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.E.2: Minimum Nwell enclosure of P+ Active Area >= 0.06 u$$PVS$$
+$$PVS$$m
+27 NW.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.E.3: Minimum Nwell enclosure of N+ 1.8V Active Area >= 0$$PVS$$
+$$PVS$$.24 um
+28 NW.E.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.E.4: Minimum Nwell enclosure of P+ 1.8V Active Area >= 0$$PVS$$
+$$PVS$$.24 um
+29 NW.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.A.1: Minimum Nwell area >= 0.18 um
+30 NW.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.EA.1: Minimum Nwell enclosed area >= 0.18 um
+31 NWR.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NWR.SE.1: Minimum Resist Protect Oxide to Nwell spacing >= $$PVS$$
+$$PVS$$0.16 um
+32 NWR.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NWR.E.1: Minimum Active Area to Nwell (in resistor) enclosu$$PVS$$
+$$PVS$$re >= 0.6 um
+33 NWR.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NWR.E.2: Minimum salicided Nwell to Contact enclosure >= 0.$$PVS$$
+$$PVS$$16 um
+34 NWR.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NWR.X.1: Thick Oxide is NOT allowed over Nwell resistor
+35 NWR.O.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NWR.O.1: Minimum N+ Implant to Resist Protect Oxide overlap$$PVS$$
+$$PVS$$ >= 0.22 um
+36 OXIDE.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.W.1: Minimum Active Area width >= 0.05 um
+37 OXIDE.W.2.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.W.2.1.1: Minimum 1.1V N-channel gate width >= 0.12 um
+38 OXIDE.W.2.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.W.2.1.2: Minimum 1.8V N-channel gate width >= 0.32 um
+39 OXIDE.W.2.2.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.W.2.2.1: Minimum 1.1V P-channel gate width >= 0.12 um
+40 OXIDE.W.2.2.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.W.2.2.2: Minimum 1.8V P-channel gate width >= 0.32 um
+41 OXIDE.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.W.3: Minimum Active Area bent 45 degress width >= 0.0$$PVS$$
+$$PVS$$6 um
+42 OXIDE.SP.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.SP.1: Minimum N+ Active Area to N+ Active Area spacin$$PVS$$
+$$PVS$$g >= 0.08 um
+43 OXIDE.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.SP.2: Minimum P+ Active Area to P+ Active Area spacin$$PVS$$
+$$PVS$$g >= 0.08 um
+44 OXIDE.SP.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.SP.3: Minimum N+ Active Area to P+ Active Area spacin$$PVS$$
+$$PVS$$g >= 0.1 um
+45 OXIDE.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.SE.1: Minimum Active Area to Thick Active Area spacin$$PVS$$
+$$PVS$$g >= 0.18 um
+46 OXIDE.SP.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.SP.4: Minimum Active Area bent 45 degress to Active A$$PVS$$
+$$PVS$$rea spacing >= 0.1 um
+47 OXIDE.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.A.1: Minimum area for Active Area >= 0.035 um
+48 OXIDE.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.EA.1: Minimum Active Area enclosed area >= 0.04 um
+49 OXIDE.L.1_OXIDE.L.2 6
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.L.1_OXIDE.L.2: Maximum Oxide length between two conta$$PVS$$
+$$PVS$$cts (when the Oxide width is <= 0.18um) must be <= 12.0um and Maximum Oxide leng$$PVS$$
+$$PVS$$th between one contact and the end of the Oxide line (when the Oxide width is <=$$PVS$$
+$$PVS$$ 0.18um) must be <= 6.0um
+50 OXIDE.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDE.X.1: Oxide must be covered by N+ Implant or Nzvt or S$$PVS$$
+$$PVS$$alicide Block
+51 OXIDER.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDER.SE.2: Minimum Active Resistor to N+ or P+ Implant sp$$PVS$$
+$$PVS$$acing >= 0.16 um
+52 OXIDER.SE.2_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDER.SE.2: Minimum Active Resistor to N+ or P+ Implant sp$$PVS$$
+$$PVS$$acing >= 0.16 um
+53 OXIDER.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDER.E.1: Minimum Salicide Block to Active Resistor enclo$$PVS$$
+$$PVS$$sure >= 0.12 um
+54 OXIDER.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDER.X.1: Oxide resistors must have N+ or P+ Implant
+55 OXIDETHK.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.W.1: Minimum Thick Active Area width >= 0.35 um
+56 OXIDETHK.SP.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.SP.1: Minimum Thick Active Area to Thick Active Ar$$PVS$$
+$$PVS$$ea spacing >= 0.16 um
+57 OXIDETHK.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.SP.2: Minimum Thick Active Area bent 45 degrees to$$PVS$$
+$$PVS$$ Thick Active Area spacing >= 0.32 um
+58 OXIDETHK.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.SE.1: Minimum N+ 1.8V Active Area to 1.8V N+ Activ$$PVS$$
+$$PVS$$e Area spacing >= 0.1 um
+59 OXIDETHK.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.SE.2: Minimum P+ 1.8V Active Area to 1.8V P+ Activ$$PVS$$
+$$PVS$$e Area spacing >= 0.1 um
+60 OXIDETHK.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.SE.3: Minimum N+ 1.8V Active Area to 1.8V P+ Activ$$PVS$$
+$$PVS$$e Area spacing >= 0.12 um
+61 OXIDETHK.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.E.1: Minimum Thick Active Area to Active Area encl$$PVS$$
+$$PVS$$osure >= 0.16 um
+62 OXIDETHK.SE.5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.SE.5: Minimum Thick Active Area to 1.1V Poly gate $$PVS$$
+$$PVS$$spacing >= 0.18 um
+63 OXIDETHK.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDETHK.E.2: Minimum Thick Active Area to Thick Poly gate $$PVS$$
+$$PVS$$enclosure >= 0.18 um
+64 NHVT.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NHVT.W.1: Minimum Nhvt width >= 0.12
+65 NHVT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NHVT.SP.1: Minimum Nhvt spacing >= 0.12
+66 NHVT.X.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NHVT.X.2: Nhvt is NOT allowed on Nwell
+67 NHVT.X.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NHVT.X.3: Nhvt is NOT allowed on P+ Oxide
+68 NHVT.X.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NHVT.X.4: Nhvt is NOT allowed on Nzvt
+69 PHVT.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PHVT.W.1: Minimum Phvt width >= 0.12
+70 PHVT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PHVT.SP.1: Minimum Phvt spacing >= 0.12
+71 PHVT.X.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PHVT.X.2: Phvt is NOT allowed outside Nwell
+72 PHVT.X.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PHVT.X.3: Phvt is NOT allowed on N+ Oxide
+73 PHVT.X.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PHVT.X.4: Phvt is NOT allowed on Nzvt
+74 NLVT.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NLVT.W.1: Minimum Nlvt width >= 0.12
+75 NLVT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NLVT.SP.1: Minimum Nlvt spacing >= 0.12
+76 NLVT.X.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NLVT.X.2: Nlvt is NOT allowed on Nwell
+77 NLVT.X.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NLVT.X.3: Nlvt is NOT allowed on P+ Oxide
+78 NLVT.X.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NLVT.X.4: Nlvt is NOT allowed on Nzvt
+79 PLVT.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PLVT.W.1: Minimum Plvt width >= 0.12
+80 PLVT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PLVT.SP.1: Minimum Plvt spacing >= 0.12
+81 PLVT.X.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PLVT.X.2: Plvt is NOT allowed outside Nwell
+82 PLVT.X.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PLVT.X.3: Plvt is NOT allowed on N+ Oxide
+83 PLVT.X.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PLVT.X.4: Plvt is NOT allowed on Nzvt
+84 NZVT.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.W.1: Minimum Nzvt width >= 0.35 um
+85 NZVT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.SP.1: Minimum Nzvt to Nzvt spacing >= 0.3 um
+86 NZVT.O.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.O.1: Minimum and maximum Nzvt to Active Area overlap =$$PVS$$
+$$PVS$$= 0.16 um
+87 NZVT.SE.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.SE.1: Minimum Nzvt to Active spacing >= 0.18 um
+88 NZVT.SE.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.SE.2: Minimum Nzvt to Nwell spacing >= 0.6 um
+89 NZVT.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.E.1: Minimum N+ Poly gate end cap to Native Active Are$$PVS$$
+$$PVS$$a enclosure >= 0.1 um
+90 NZVT.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.L.1: Minimum Native device Poly gate length >= 0.30 um
+91 NZVT.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.W.2: Minimum Native device Poly gate width >= 0.50 um
+92 NZVT.X.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.X.3: P+ Oxide is NOT allowed in Nzvt
+93 NZVT.X.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NZVT.X.4: Only one Oxide region may be in an Nzvt region
+94 POLY.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.W.1: Minimum 1.1V N-channel gate length >= 0.045 um
+95 POLY.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.W.2: Minimum 1.1V P-channel gate length >= 0.045 um
+96 POLY.W.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.W.3: Minimum 1.8V N-channel gate length >= 0.15 um
+97 POLY.W.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.W.4: Minimum 1.8V P-channel gate length >= 0.15 um
+98 POLY.W.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.W.5: Minimum Poly interconnect width >= 0.045 um
+99 POLY.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SP.1: Minimum Poly resistor space >= 0.3 um
+100 POLY.SP.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SP.2: Minimum Poly gate space  >= 0.06 um
+101 POLY.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SP.3: Minimum Poly interconnect space >= 0.06 um
+102 POLY.SP.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SP.4: Minimum gate space in thick active >= 0.20 um
+103 POLY.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.E.1: Minimum N-channel gate extension beyond Active Ar$$PVS$$
+$$PVS$$ea >= 0.1 um
+104 POLY.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.E.2: Minimum P-channel gate extension beyond Active Ar$$PVS$$
+$$PVS$$ea >= 0.1 um
+105 POLY.SE.1_POLY.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SE.1_POLY.SE.2: Minimum Poly interconnect to related A$$PVS$$
+$$PVS$$ctive Area space >= 0.05 um
+106 POLY.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.E.3: Minimum Active Area (source/drain) to gate enclos$$PVS$$
+$$PVS$$ure >= 0.1 um
+107 POLY.W.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.W.6: Minimum bent Poly width >= 0.1 um
+108 POLY.SP.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SP.5: Minimum bent Poly space >= 0.1 um
+109 POLY.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.X.1: Poly gate cannot have bends
+110 POLY.X.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.X.2: Poly resistor cannot have bends
+111 POLY.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.SE.3: Maximum Poly segment length (width < 0.14) betwe$$PVS$$
+$$PVS$$en two contacts >= 12.0 um
+112 POLY.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.A.1: Minimum area for Poly interconnect >= 0.02 um
+113 POLY.EA.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLY.EA.1: Minimum enclosed area for Poly interconnect >= 0$$PVS$$
+$$PVS$$.05 um
+114 POLYR.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.E.1: Minimum Salicide Block to Poly resistor enclosur$$PVS$$
+$$PVS$$e >= 0.14 um
+115 POLYR.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.E.2: Minimum N+ Implant to Poly used in resistor encl$$PVS$$
+$$PVS$$osure >= 0.07 um
+116 POLYR.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.E.3: Minimum P+ Implant to Poly used in resistor encl$$PVS$$
+$$PVS$$osure >= 0.07 um
+117 POLYR.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.SE.2: Minimum Poly resistor to other Implant spacing $$PVS$$
+$$PVS$$>= 0.15 um
+118 POLYR.SE.2_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.SE.2: Minimum Poly resistor to other Implant spacing $$PVS$$
+$$PVS$$>= 0.15 um
+119 POLYR.SE.2_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.SE.2: Minimum Poly resistor to other Implant spacing $$PVS$$
+$$PVS$$>= 0.15 um
+120 POLYR.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.X.1: Poly resistors must have N+ or P+ Implant
+121 NIMP.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.W.1: Minimum N+ Implant width >= 0.12 um
+122 NIMP.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.SP.1: Minimum N+ Implant space >= 0.12 um
+123 NIMP.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.E.1: Minimum N+ Implant to Active Area enclosure >= 0.$$PVS$$
+$$PVS$$07 um
+124 NIMP.O.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.O.1: Minimum N+ Implant to Active Area overlap >= 0.08$$PVS$$
+$$PVS$$ um
+125 NIMP.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.SE.1: Minimum N+ Implant to P+ Active Area (inside Nwe$$PVS$$
+$$PVS$$ll) spacing >= 0.08 um
+126 NIMP.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.E.2: Minimum N+ Implant to Active Area (Nwell tie) enc$$PVS$$
+$$PVS$$losure >= 0.01 um
+127 NIMP.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.E.3: Minimum N+ Implant to gate side enclosure >= 0.1 $$PVS$$
+$$PVS$$um
+128 NIMP.E.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.E.4: Minimum N+ Implant to gate (endcap) enclosure >= $$PVS$$
+$$PVS$$0.1 um
+129 NIMP.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.SE.2: Minimum N+ Implant to P+ Active Area (substrate $$PVS$$
+$$PVS$$tie) spacing >= 0.02 um
+130 NIMP.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.A.1: Minimum area for N+ Implant >= 0.018 um
+131 NIMP.EA.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.EA.1: Minimum N+ Implant ring enclosed area  >= 0.04 u$$PVS$$
+$$PVS$$m
+132 NIMP.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.SE.3: Minimum N+ Implant to P+ gate side (butted Impla$$PVS$$
+$$PVS$$nt) spacing >= 0.1 um
+133 NIMP.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NIMP.X.1: Nimp is NOT allowed over Pimp
+134 PIMP.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.W.1: Minimum P+ Implant width >= 0.12 um
+135 PIMP.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.SP.1: Minimum P+ Implant space >= 0.12 um
+136 PIMP.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.E.1: Minimum P+ Implant to Active Area enclosure >= 0.$$PVS$$
+$$PVS$$07 um
+137 PIMP.O.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.O.1: Minimum P+ Implant to Active Area overlap >= 0.08$$PVS$$
+$$PVS$$ um
+138 PIMP.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.SE.1: Minimum P+ Implant to N+ Active Area (outside Nw$$PVS$$
+$$PVS$$ell) spacing >= 0.08 um
+139 PIMP.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.E.2: Minimum P+ Implant to Active Area (substrate tie)$$PVS$$
+$$PVS$$ enclosure >= 0.01 um
+140 PIMP.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.E.3: Minimum P+ Implant to gate side enclosure >= 0.1 $$PVS$$
+$$PVS$$um
+141 PIMP.E.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.E.4: Minimum P+ Implant to gate (endcap) enclosure >= $$PVS$$
+$$PVS$$0.1 um
+142 PIMP.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.SE.2: Minimum P+ Implant to N+ Active Area (Nwell tie)$$PVS$$
+$$PVS$$ spacing >= 0.02 um
+143 PIMP.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.A.1: Minimum area for P+ Implant >= 0.018 um
+144 PIMP.EA.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.EA.1: Minimum P+ Implant ring enclosed area  >= 0.04 u$$PVS$$
+$$PVS$$m
+145 PIMP.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+PIMP.SE.3: Minimum P+ Implant to N+ gate side (butted Impla$$PVS$$
+$$PVS$$nt) spacing >= 0.1 um
+146 CONT.W.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.W.1: Maximum and minimum Contact width/length == 0.06 $$PVS$$
+$$PVS$$um
+147 CONT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.SP.1: Minimum Contact to Contact spacing >= 0.06 um
+148 CONT.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.SP.2: Space to three adjacent Contacts ( < 0.10um apar$$PVS$$
+$$PVS$$t) >= 0.08 um
+149 CONT.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.SE.1: Minimum Contact on Active Area to gate spacing >$$PVS$$
+$$PVS$$= 0.05 um
+150 CONT.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.SE.2: Minimum Contact on 1.8V Active Area to gate spac$$PVS$$
+$$PVS$$ing >= 0.06 um
+151 CONT.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.SE.3: Minimum gate Contact on Active Area spacing >= 0$$PVS$$
+$$PVS$$.06 um
+152 CONT.SE.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.SE.4: Minimum 1.8V gate Contact on Active Area spacing$$PVS$$
+$$PVS$$ >= 0.07 um
+153 CONT.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.E.1: Minimum Active Area to Contact enclosure >= 0.03 $$PVS$$
+$$PVS$$um
+154 CONT.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.E.2: Minimum Poly to Contact enclosure >= 0.02 um
+155 CONT.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.E.3: Minimum Poly to Contact enclosure on at least two$$PVS$$
+$$PVS$$ opposite sides >= 0.03 um
+156 CONT.E.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.E.4: Minimum N+/P+ Implant on Active Area to Contact e$$PVS$$
+$$PVS$$nclosure >= 0.03 um
+157 CONT.E.4_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.E.4: Minimum N+/P+ Implant on Active Area to Contact e$$PVS$$
+$$PVS$$nclosure >= 0.03 um
+158 CONT.X.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.X.1: Cont on gate is NOT allowed
+159 CONT.X.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.X.2: Nimp edge is NOT allowed on Oxide Cont
+160 CONT.X.2_2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.X.2: Pimp edge is NOT allowed on Oxide Cont
+161 CONT.X.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CONT.X.3: CONT must be covered by Oxide or Poly
+162 SIPROT.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.W.1: Minimum Salicide Block width >= 0.22 um
+163 SIPROT.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.SP.1: Minimum Salicide Block space >= 0.22 um
+164 SIPROT.SE.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.SE.1: Minimum Salicide Block to Contact spacing >= 0$$PVS$$
+$$PVS$$.12 um
+165 SIPROT.SE.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.SE.2: Minimum Salicide Block to unrelated Active Are$$PVS$$
+$$PVS$$a spacing >= 0.12 um
+166 SIPROT.SE.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.SE.3: Minimum Salicide Block to gate spacing >= 0.22$$PVS$$
+$$PVS$$ um
+167 SIPROT.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.E.2: Minimum Active Area to Salicide Block enclosure$$PVS$$
+$$PVS$$ >= 0.12 um
+168 SIPROT.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.E.1: Minimum Salicide Block to Active Area enclosure$$PVS$$
+$$PVS$$ >= 0.12 um
+169 SIPROT.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.E.3: Minimum Salicide Block to Poly (on field) enclo$$PVS$$
+$$PVS$$sure >= 0.14 um
+170 SIPROT.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.A.1: Minimum Salicide Block area >= 0.6 um
+171 SIPROT.SE.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.SE.4: Minimum Salicide Block to Poly (on field) spac$$PVS$$
+$$PVS$$ing >= 0.18 um
+172 SIPROT.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+SIPROT.EA.1: Minimum Salicide Block enclosed area >= 0.6 um
+173 METAL2.E.1_METAL2.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.E.1_METAL2.E.2: Metal2 Enc 0.005 & 0.03
+174 METAL3.E.1_METAL3.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.E.1_METAL3.E.2: Metal3 Enc 0.005 & 0.03
+175 METAL4.E.1_METAL4.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.E.1_METAL4.E.2: Metal4 Enc 0.005 & 0.03
+176 METAL5.E.1_METAL5.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.E.1_METAL5.E.2: Metal5 Enc 0.005 & 0.03
+177 METAL6.E.1_METAL6.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.E.1_METAL6.E.2: Metal6 Enc 0.005 & 0.03
+178 METAL7.E.1_METAL7.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.E.1_METAL7.E.2: Metal7 Enc 0.005 & 0.03
+179 METAL8.E.1_METAL8.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.E.1_METAL8.E.2: Metal8 Enc 0.005 & 0.03
+180 METAL9.E.1_METAL9.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.E.1_METAL9.E.2: Metal9 Enc 0.005 & 0.03
+181 METAL10.E.1_METAL10.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.E.1_METAL10.E.2: Metal10 Enc 0.005 & 0.03
+182 METAL11.E.1_METAL11.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.E.1_METAL11.E.2: Metal11 Enc 0.005 & 0.03
+183 METAL1.E.1_METAL1.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.E.1_METAL1.E.2: Metal1 Enc 0 & 0.03
+184 METAL1.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.W.1: Metal1 width must be >= 0.06 um
+185 METAL2.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.W.1: Metal2 width must be >= 0.08 um
+186 METAL3.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.W.1: Metal3 width must be >= 0.08 um
+187 METAL4.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.W.1: Metal4 width must be >= 0.08 um
+188 METAL5.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.W.1: Metal5 width must be >= 0.08 um
+189 METAL6.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.W.1: Metal6 width must be >= 0.08 um
+190 METAL7.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.W.1: Metal7 width must be >= 0.08 um
+191 METAL8.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.W.1: Metal8 width must be >= 0.08 um
+192 METAL9.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.W.1: Metal9 width must be >= 0.08 um
+193 METAL10.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.W.1: Metal10 width must be >= 0.22 um
+194 METAL11.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.W.1: Metal11 width must be >= 0.22 um
+195 METAL1.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.W.2: Metal1 width must be <= 6.0 um
+196 METAL2.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.W.2: Metal2 width must be <= 6.0 um
+197 METAL3.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.W.2: Metal3 width must be <= 6.0 um
+198 METAL4.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.W.2: Metal4 width must be <= 6.0 um
+199 METAL5.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.W.2: Metal5 width must be <= 6.0 um
+200 METAL6.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.W.2: Metal6 width must be <= 6.0 um
+201 METAL7.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.W.2: Metal7 width must be <= 6.0 um
+202 METAL8.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.W.2: Metal8 width must be <= 6.0 um
+203 METAL9.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.W.2: Metal9 width must be <= 6.0 um
+204 METAL10.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.W.2: Metal10 width must be <= 6.0 um
+205 METAL11.W.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.W.2: Metal11 width must be <= 6.0 um
+206 METAL1.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.1.1: Metal1 to Metal1 spacing must be >= 0.06 um
+207 METAL2.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.1.1: Metal2 to Metal2 spacing must be >= 0.07 um
+208 METAL3.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.1.1: Metal3 to Metal3 spacing must be >= 0.07 um
+209 METAL4.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.1.1: Metal4 to Metal4 spacing must be >= 0.07 um
+210 METAL5.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.1.1: Metal5 to Metal5 spacing must be >= 0.07 um
+211 METAL6.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.1.1: Metal6 to Metal6 spacing must be >= 0.07 um
+212 METAL7.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.1.1: Metal7 to Metal7 spacing must be >= 0.07 um
+213 METAL8.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.1.1: Metal8 to Metal8 spacing must be >= 0.07 um
+214 METAL9.SP.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.1.1: Metal9 to Metal9 spacing must be >= 0.07 um
+215 METAL10.SP.1.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.SP.1.1: Metal10 to Metal10 spacing must be >= 0.20 $$PVS$$
+$$PVS$$um
+216 METAL11.SP.1.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.SP.1.1: Metal11 to Metal11 spacing must be >= 0.20 $$PVS$$
+$$PVS$$um
+217 METAL1.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.1.2: Metal1 to Metal1 spacing must be >= 0.1 um
+218 METAL2.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.1.2: Metal2 to Metal2 spacing must be >= 0.15 um
+219 METAL3.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.1.2: Metal3 to Metal3 spacing must be >= 0.15 um
+220 METAL4.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.1.2: Metal4 to Metal4 spacing must be >= 0.15 um
+221 METAL5.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.1.2: Metal5 to Metal5 spacing must be >= 0.15 um
+222 METAL6.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.1.2: Metal6 to Metal6 spacing must be >= 0.15 um
+223 METAL7.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.1.2: Metal7 to Metal7 spacing must be >= 0.15 um
+224 METAL8.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.1.2: Metal8 to Metal8 spacing must be >= 0.15 um
+225 METAL9.SP.1.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.1.2: Metal9 to Metal9 spacing must be >= 0.15 um
+226 METAL1.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.1.3: Metal1 to Metal1 spacing must be >= 0.25 um
+227 METAL2.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.1.3: Metal2 to Metal2 spacing must be >= 0.25 um
+228 METAL3.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.1.3: Metal3 to Metal3 spacing must be >= 0.25 um
+229 METAL4.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.1.3: Metal4 to Metal4 spacing must be >= 0.25 um
+230 METAL5.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.1.3: Metal5 to Metal5 spacing must be >= 0.25 um
+231 METAL6.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.1.3: Metal6 to Metal6 spacing must be >= 0.25 um
+232 METAL7.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.1.3: Metal7 to Metal7 spacing must be >= 0.25 um
+233 METAL8.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.1.3: Metal8 to Metal8 spacing must be >= 0.25 um
+234 METAL9.SP.1.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.1.3: Metal9 to Metal9 spacing must be >= 0.25 um
+235 METAL10.SP.1.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.SP.1.2: Metal10 to Metal10 spacing must be >= 0.35 $$PVS$$
+$$PVS$$um
+236 METAL11.SP.1.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.SP.1.2: Metal11 to Metal11 spacing must be >= 0.35 $$PVS$$
+$$PVS$$um
+237 METAL1.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.1.4: Metal1 to Metal1 spacing must be >= 0.45 um
+238 METAL2.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.1.4: Metal2 to Metal2 spacing must be >= 0.45 um
+239 METAL3.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.1.4: Metal3 to Metal3 spacing must be >= 0.45 um
+240 METAL4.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.1.4: Metal4 to Metal4 spacing must be >= 0.45 um
+241 METAL5.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.1.4: Metal5 to Metal5 spacing must be >= 0.45 um
+242 METAL6.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.1.4: Metal6 to Metal6 spacing must be >= 0.45 um
+243 METAL7.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.1.4: Metal7 to Metal7 spacing must be >= 0.45 um
+244 METAL8.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.1.4: Metal8 to Metal8 spacing must be >= 0.45 um
+245 METAL9.SP.1.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.1.4: Metal9 to Metal9 spacing must be >= 0.45 um
+246 METAL10.SP.1.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.SP.1.3: Metal10 to Metal10 spacing must be >= 0.45 $$PVS$$
+$$PVS$$um
+247 METAL11.SP.1.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.SP.1.3: Metal11 to Metal11 spacing must be >= 0.45 $$PVS$$
+$$PVS$$um
+248 METAL1.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.1.5: Metal1 to Metal1 spacing must be >= 0.75 um
+249 METAL2.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.1.5: Metal2 to Metal2 spacing must be >= 0.75 um
+250 METAL3.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.1.5: Metal3 to Metal3 spacing must be >= 0.75 um
+251 METAL4.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.1.5: Metal4 to Metal4 spacing must be >= 0.75 um
+252 METAL5.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.1.5: Metal5 to Metal5 spacing must be >= 0.75 um
+253 METAL6.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.1.5: Metal6 to Metal6 spacing must be >= 0.75 um
+254 METAL7.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.1.5: Metal7 to Metal7 spacing must be >= 0.75 um
+255 METAL8.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.1.5: Metal8 to Metal8 spacing must be >= 0.75 um
+256 METAL9.SP.1.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.1.5: Metal9 to Metal9 spacing must be >= 0.75 um
+257 METAL10.SP.1.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.SP.1.4: Metal10 to Metal10 spacing must be >= 0.75 $$PVS$$
+$$PVS$$um
+258 METAL11.SP.1.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.SP.1.4: Metal11 to Metal11 spacing must be >= 0.75 $$PVS$$
+$$PVS$$um
+259 METAL1.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.1.6: Metal1 to Metal1 spacing must be >= 1.25 um
+260 METAL2.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.1.6: Metal2 to Metal2 spacing must be >= 1.25 um
+261 METAL3.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.1.6: Metal3 to Metal3 spacing must be >= 1.25 um
+262 METAL4.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.1.6: Metal4 to Metal4 spacing must be >= 1.25 um
+263 METAL5.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.1.6: Metal5 to Metal5 spacing must be >= 1.25 um
+264 METAL6.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.1.6: Metal6 to Metal6 spacing must be >= 1.25 um
+265 METAL7.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.1.6: Metal7 to Metal7 spacing must be >= 1.25 um
+266 METAL8.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.1.6: Metal8 to Metal8 spacing must be >= 1.25 um
+267 METAL9.SP.1.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.1.6: Metal9 to Metal9 spacing must be >= 1.25 um
+268 METAL10.SP.1.5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.SP.1.5: Metal10 to Metal10 spacing must be >= 1.25 $$PVS$$
+$$PVS$$um
+269 METAL11.SP.1.5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.SP.1.5: Metal11 to Metal11 spacing must be >= 1.25 $$PVS$$
+$$PVS$$um
+270 METAL1.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.L.1: Metal1 non-90 degree segments must be >= 0.1 um
+271 METAL2.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.L.1: Metal2 non-90 degree segments must be >= 0.1 um
+272 METAL3.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.L.1: Metal3 non-90 degree segments must be >= 0.1 um
+273 METAL4.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.L.1: Metal4 non-90 degree segments must be >= 0.1 um
+274 METAL5.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.L.1: Metal5 non-90 degree segments must be >= 0.1 um
+275 METAL6.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.L.1: Metal6 non-90 degree segments must be >= 0.1 um
+276 METAL7.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.L.1: Metal7 non-90 degree segments must be >= 0.1 um
+277 METAL8.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.L.1: Metal8 non-90 degree segments must be >= 0.1 um
+278 METAL9.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.L.1: Metal9 non-90 degree segments must be >= 0.1 um
+279 METAL1.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.2: Metal1 to bent Metal1 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+280 METAL1.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.W.3: Bent Metal1 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.07
+281 METAL2.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.2: Metal2 to bent Metal2 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+282 METAL2.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.W.3: Bent Metal2 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+283 METAL3.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.2: Metal3 to bent Metal3 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+284 METAL3.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.W.3: Bent Metal3 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+285 METAL4.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.2: Metal4 to bent Metal4 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+286 METAL4.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.W.3: Bent Metal4 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+287 METAL5.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.2: Metal5 to bent Metal5 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+288 METAL5.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.W.3: Bent Metal5 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+289 METAL6.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.2: Metal6 to bent Metal6 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+290 METAL6.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.W.3: Bent Metal6 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+291 METAL7.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.2: Metal7 to bent Metal7 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+292 METAL7.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.W.3: Bent Metal7 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+293 METAL8.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.2: Metal8 to bent Metal8 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+294 METAL8.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.W.3: Bent Metal8 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+295 METAL9.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.2: Metal9 to bent Metal9 spacing must be >= 0.1 u$$PVS$$
+$$PVS$$m
+296 METAL9.W.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.W.3: Bent Metal9 (45 degree angle) width must be >= $$PVS$$
+$$PVS$$0.09
+297 METAL1.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.SP.3: Min End Of Line Spacing >= 0.08
+298 METAL2.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.SP.3: Min End Of Line Spacing >= 0.08
+299 METAL3.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.SP.3: Min End Of Line Spacing >= 0.08
+300 METAL4.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.SP.3: Min End Of Line Spacing >= 0.08
+301 METAL5.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.SP.3: Min End Of Line Spacing >= 0.08
+302 METAL6.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.SP.3: Min End Of Line Spacing >= 0.08
+303 METAL7.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.SP.3: Min End Of Line Spacing >= 0.08
+304 METAL8.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.SP.3: Min End Of Line Spacing >= 0.08
+305 METAL9.SP.3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.SP.3: Min End Of Line Spacing >= 0.08
+306 METAL1.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.A.1: Metal1 area must be >= 0.02 um
+307 METAL2.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.A.1: Metal2 area must be >= 0.02 um
+308 METAL3.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.A.1: Metal3 area must be >= 0.02 um
+309 METAL4.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.A.1: Metal4 area must be >= 0.02 um
+310 METAL5.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.A.1: Metal5 area must be >= 0.02 um
+311 METAL6.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.A.1: Metal6 area must be >= 0.02 um
+312 METAL7.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.A.1: Metal7 area must be >= 0.02 um
+313 METAL8.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.A.1: Metal8 area must be >= 0.02 um
+314 METAL9.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.A.1: Metal9 area must be >= 0.02 um
+315 METAL10.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.A.1: Metal10 area must be >= 0.10 um
+316 METAL11.A.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.A.1: Metal11 area must be >= 0.10 um
+317 METAL1.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL1.EA.1: Metal1 enclosed area must be >= 0.05 um
+318 METAL2.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL2.EA.1: Metal2 enclosed area must be >= 0.05 um
+319 METAL3.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL3.EA.1: Metal3 enclosed area must be >= 0.05 um
+320 METAL4.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL4.EA.1: Metal4 enclosed area must be >= 0.05 um
+321 METAL5.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL5.EA.1: Metal5 enclosed area must be >= 0.05 um
+322 METAL6.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL6.EA.1: Metal6 enclosed area must be >= 0.05 um
+323 METAL7.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL7.EA.1: Metal7 enclosed area must be >= 0.05 um
+324 METAL8.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL8.EA.1: Metal8 enclosed area must be >= 0.05 um
+325 METAL9.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL9.EA.1: Metal9 enclosed area must be >= 0.05 um
+326 METAL10.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL10.EA.1: Metal10 enclosed area must be >= 0.05 um
+327 METAL11.EA.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+METAL11.EA.1: Metal11 enclosed area must be >= 0.05 um
+328 CMET.S.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CMET.S.1: Minimum space of CapMetal >= 1.0 um
+329 CMET.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CMET.W.1: Minimum width of CapMetal >= 1.0 um
+330 CMET.E.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CMET.E.1: Minimum Metal 1 overlap of Via 10 on CapMetal >= $$PVS$$
+$$PVS$$0.05 um
+331 CMET.E.2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CMET.E.2: Minimum CapMetal overlap of Via 10 >= 0.15 um
+332 CMET.E.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CMET.E.4: Minimum Metal 10 overlap of CapMetal >= 0.2 um
+333 CMET.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+CMET.E.3: Minimum CapMetal extension over Metal 11 >= 0.1 u$$PVS$$
+$$PVS$$m
+334 VIA1.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.W.1: Via1 shapes must be 0.07x0.07 rectangles
+335 VIA1.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.SP.1: Via1 to Via1 spacing must be >= 0.07 um
+336 VIA2.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.W.1: Via2 shapes must be 0.07x0.07 rectangles
+337 VIA2.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.SP.1: Via2 to Via2 spacing must be >= 0.07 um
+338 VIA3.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.W.1: Via3 shapes must be 0.07x0.07 rectangles
+339 VIA3.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.SP.1: Via3 to Via3 spacing must be >= 0.07 um
+340 VIA4.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.W.1: Via4 shapes must be 0.07x0.07 rectangles
+341 VIA4.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.SP.1: Via4 to Via4 spacing must be >= 0.07 um
+342 VIA5.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.W.1: Via5 shapes must be 0.07x0.07 rectangles
+343 VIA5.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.SP.1: Via5 to Via5 spacing must be >= 0.07 um
+344 VIA6.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.W.1: Via6 shapes must be 0.07x0.07 rectangles
+345 VIA6.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.SP.1: Via6 to Via6 spacing must be >= 0.07 um
+346 VIA7.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.W.1: Via7 shapes must be 0.07x0.07 rectangles
+347 VIA7.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.SP.1: Via7 to Via7 spacing must be >= 0.07 um
+348 VIA8.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.W.1: Via8 shapes must be 0.07x0.07 rectangles
+349 VIA8.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.SP.1: Via8 to Via8 spacing must be >= 0.07 um
+350 VIA9.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA9.W.1: Via9 shapes must be 0.18x0.18 rectangles
+351 VIA9.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA9.SP.1: Via9 to Via9 spacing must be >= 0.18 um
+352 VIA10.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA10.W.1: Via10 shapes must be 0.18x0.18 rectangles
+353 VIA10.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA10.SP.1: Via10 to Via10 spacing must be >= 0.18 um
+354 VIA1.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.E.1: Metal1 to Via1 enclosure must be >= 0.005 um
+355 VIA1.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.E.2: Metal1 to Via1 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+356 VIA2.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.E.1: Metal2 to Via2 enclosure must be >= 0.005 um
+357 VIA2.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.E.2: Metal2 to Via2 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+358 VIA3.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.E.1: Metal3 to Via3 enclosure must be >= 0.005 um
+359 VIA3.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.E.2: Metal3 to Via3 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+360 VIA4.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.E.1: Metal4 to Via4 enclosure must be >= 0.005 um
+361 VIA4.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.E.2: Metal4 to Via4 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+362 VIA5.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.E.1: Metal5 to Via5 enclosure must be >= 0.005 um
+363 VIA5.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.E.2: Metal5 to Via5 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+364 VIA6.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.E.1: Metal6 to Via6 enclosure must be >= 0.005 um
+365 VIA6.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.E.2: Metal6 to Via6 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+366 VIA7.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.E.1: Metal7 to Via7 enclosure must be >= 0.005 um
+367 VIA7.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.E.2: Metal7 to Via7 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+368 VIA8.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.E.1: Metal8 to Via8 enclosure must be >= 0.005 um
+369 VIA8.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.E.2: Metal8 to Via8 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.03 um
+370 VIA9.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA9.E.1: Metal9 to Via9 enclosure must be >= 0.015 um
+371 VIA9.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA9.E.2: Metal9 to Via9 enclosure on opposite sides must b$$PVS$$
+$$PVS$$e >= 0.04 um
+372 VIA10.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA10.E.1: Metal10 to Via10 enclosure must be >= 0.015 um
+373 VIA10.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA10.E.2: Metal10 to Via10 enclosure on opposite sides mus$$PVS$$
+$$PVS$$t be >= 0.04 um
+374 VIA1.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.E.3: At least 2 Via1 must be used to join Metal1 and M$$PVS$$
+$$PVS$$etal2 when they are within 3.0um of a metal plate (Metal1/Metal2) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+375 VIA2.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.E.3: At least 2 Via2 must be used to join Metal2 and M$$PVS$$
+$$PVS$$etal3 when they are within 3.0um of a metal plate (Metal2/Metal3) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+376 VIA3.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.E.3: At least 2 Via3 must be used to join Metal3 and M$$PVS$$
+$$PVS$$etal4 when they are within 3.0um of a metal plate (Metal3/Metal4) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+377 VIA4.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.E.3: At least 2 Via4 must be used to join Metal4 and M$$PVS$$
+$$PVS$$etal5 when they are within 3.0um of a metal plate (Metal4/Metal5) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+378 VIA5.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.E.3: At least 2 Via5 must be used to join Metal5 and M$$PVS$$
+$$PVS$$etal6 when they are within 3.0um of a metal plate (Metal5/Metal6) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+379 VIA6.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.E.3: At least 2 Via6 must be used to join Metal6 and M$$PVS$$
+$$PVS$$etal7 when they are within 3.0um of a metal plate (Metal6/Metal7) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+380 VIA7.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.E.3: At least 2 Via7 must be used to join Metal7 and M$$PVS$$
+$$PVS$$etal8 when they are within 3.0um of a metal plate (Metal7/Metal8) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+381 VIA8.E.3 5
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.E.3: At least 2 Via8 must be used to join Metal8 and M$$PVS$$
+$$PVS$$etal9 when they are within 3.0um of a metal plate (Metal8/Metal9) when the metal$$PVS$$
+$$PVS$$ plate size is has width > 1.5 and length > 1.5
+382 VIA1.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.X.1: Metal1 must connect to Metal2 with >= 2 Via1 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via1 spaced < 0.60 um
+383 VIA2.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.X.1: Metal2 must connect to Metal3 with >= 2 Via2 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via2 spaced < 0.60 um
+384 VIA3.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.X.1: Metal3 must connect to Metal4 with >= 2 Via3 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via3 spaced < 0.60 um
+385 VIA4.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.X.1: Metal4 must connect to Metal5 with >= 2 Via4 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via4 spaced < 0.60 um
+386 VIA5.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.X.1: Metal5 must connect to Metal6 with >= 2 Via5 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via5 spaced < 0.60 um
+387 VIA6.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.X.1: Metal6 must connect to Metal7 with >= 2 Via6 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via6 spaced < 0.60 um
+388 VIA7.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.X.1: Metal7 must connect to Metal8 with >= 2 Via7 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via7 spaced < 0.60 um
+389 VIA8.X.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.X.1: Metal8 must connect to Metal9 with >= 2 Via8 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 4 Via8 spaced < 0.60 um
+390 VIA1.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA1.X.2: Metal1 must connect to Metal2 with >= 4 Via1 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via1 spaced < 0.60 um
+391 VIA2.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA2.X.2: Metal2 must connect to Metal3 with >= 4 Via2 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via2 spaced < 0.60 um
+392 VIA3.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA3.X.2: Metal3 must connect to Metal4 with >= 4 Via3 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via3 spaced < 0.60 um
+393 VIA4.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA4.X.2: Metal4 must connect to Metal5 with >= 4 Via4 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via4 spaced < 0.60 um
+394 VIA5.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA5.X.2: Metal5 must connect to Metal6 with >= 4 Via5 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via5 spaced < 0.60 um
+395 VIA6.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA6.X.2: Metal6 must connect to Metal7 with >= 4 Via6 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via6 spaced < 0.60 um
+396 VIA7.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA7.X.2: Metal7 must connect to Metal8 with >= 4 Via7 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via7 spaced < 0.60 um
+397 VIA8.X.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIA8.X.2: Metal8 must connect to Metal9 with >= 4 Via8 spac$$PVS$$
+$$PVS$$ed < 0.30 um or >= 9 Via8 spaced < 0.60 um
+398 VIAk.X.3_VIAk.X.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal1 through Metal6 stack must have tw$$PVS$$
+$$PVS$$o or more stacked Vias at all levels
+399 VIAk.X.3_VIAk.X.4_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal2 through Metal7 stack must have tw$$PVS$$
+$$PVS$$o or more stacked Vias at all levels
+400 VIAk.X.3_VIAk.X.4_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal3 through Metal8 stack must have tw$$PVS$$
+$$PVS$$o or more stacked Vias at all levels
+401 VIAk.X.3_VIAk.X.4_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal4 through Metal9 stack must have tw$$PVS$$
+$$PVS$$o or more stacked Vias at all levels
+402 LATCHUP.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+LATCHUP.1: The maximum distance from any point in a P+ sour$$PVS$$
+$$PVS$$ce/drain Active Area to the nearest Nwell pick-up in the same Nwell >= 20.0 um
+403 LATCHUP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+LATCHUP.2: The maximum distance from any point in a N+ sour$$PVS$$
+$$PVS$$ce/drain Active Area to the nearest Psub pick-up in the same Psub >= 20.0 um
+404 ESD.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.1: ESD gate width must be >= 10.0 um and <= 30.0 um
+405 ESD.5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.5: NMOS I/O and ESD devices must be inside P+ rings
+406 ESD.6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.6: PMOS I/O and ESD devices must be inside N+ rings
+407 ESD.7 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.7: P+ taps can NOT butt NMOS I/O and ESD devices
+408 ESD.7_2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.7: N+ taps can NOT butt PMOS I/O and ESD devices
+409 ESD.11 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.11: Minimum SiProt to Poly gate overlap in NMOS and PMO$$PVS$$
+$$PVS$$S drains >= 0.05 um
+410 ESD.12 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.12: Minimum enclosure of SiProt edge to Poly gate edge $$PVS$$
+$$PVS$$in NMOS and PMOS drains >= 0.9 um
+411 ESD.13 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.13: Minimum SiProt to Oxide overlap in NMOS and PMOS I/$$PVS$$
+$$PVS$$O drains >= 0.9 um
+412 ESD.14 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.14: Exact gate length of NMOS and PMOS in I/O buffers a$$PVS$$
+$$PVS$$nd in Vdd to Vss ESD protection == 0.2 um
+413 ESD.15 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.15: Minimu Poly gate to Contact spacing in NMOS and PMO$$PVS$$
+$$PVS$$S in I/O buffers and in Vdd to Vss ESD protection >= 0.12 um
+414 BONDPAD.E.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal1 to Bondpad enclosure must be >= 2.0 um
+415 BONDPAD.SP.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal1 to Metal1 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+416 BONDPAD.E.1_2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal2 to Bondpad enclosure must be >= 2.0 um
+417 BONDPAD.SP.2_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal2 to Metal2 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+418 BONDPAD.E.1_3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal3 to Bondpad enclosure must be >= 2.0 um
+419 BONDPAD.SP.2_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal3 to Metal3 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+420 BONDPAD.E.1_4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal4 to Bondpad enclosure must be >= 2.0 um
+421 BONDPAD.SP.2_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal4 to Metal4 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+422 BONDPAD.E.1_5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal5 to Bondpad enclosure must be >= 2.0 um
+423 BONDPAD.SP.2_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal5 to Metal5 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+424 BONDPAD.E.1_6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal6 to Bondpad enclosure must be >= 2.0 um
+425 BONDPAD.SP.2_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal6 to Metal6 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+426 BONDPAD.E.1_7 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal7 to Bondpad enclosure must be >= 2.0 um
+427 BONDPAD.SP.2_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal7 to Metal7 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+428 BONDPAD.E.1_8 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal8 to Bondpad enclosure must be >= 2.0 um
+429 BONDPAD.SP.2_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal8 to Metal8 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+430 BONDPAD.E.1_9 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal9 to Bondpad enclosure must be >= 2.0 um
+431 BONDPAD.SP.2_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal9 to Metal9 spacing must be >= 3$$PVS$$
+$$PVS$$.0 um
+432 BONDPAD.E.1_10 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal10 to Bondpad enclosure must be >= 2.0 um
+433 BONDPAD.SP.2_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal10 to Metal10 spacing must be >=$$PVS$$
+$$PVS$$ 3.0 um
+434 BONDPAD.E.1_11 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.1: Metal11 to Bondpad enclosure must be >= 2.0 um
+435 BONDPAD.SP.2_11 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal11 to Metal11 spacing must be >=$$PVS$$
+$$PVS$$ 3.0 um
+436 BONDPAD.B.1A 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal1 must have bevelled corners
+437 BONDPAD.B.1A_2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal2 must have bevelled corners
+438 BONDPAD.B.1A_3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal3 must have bevelled corners
+439 BONDPAD.B.1A_4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal4 must have bevelled corners
+440 BONDPAD.B.1A_5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal5 must have bevelled corners
+441 BONDPAD.B.1A_6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal6 must have bevelled corners
+442 BONDPAD.B.1A_7 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal7 must have bevelled corners
+443 BONDPAD.B.1A_8 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal8 must have bevelled corners
+444 BONDPAD.B.1A_9 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal9 must have bevelled corners
+445 BONDPAD.B.1A_10 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal10 must have bevelled corners
+446 BONDPAD.B.1A_11 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal11 must have bevelled corners
+447 BONDPAD.W.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.1: Bondpad width must be >= 55.0 um
+448 BONDPAD.SP.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.1: Bondpad to Bondpad spacing must be >= 8.0 um
+449 BONDPAD.L.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.L.1: Bondpad length must be >= 68.0 um
+450 BONDPAD.B.1B 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal1 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+451 BONDPAD.B.1B_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal2 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+452 BONDPAD.B.1B_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal3 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+453 BONDPAD.B.1B_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal4 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+454 BONDPAD.B.1B_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal5 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+455 BONDPAD.B.1B_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal6 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+456 BONDPAD.B.1B_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal7 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+457 BONDPAD.B.1B_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal8 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+458 BONDPAD.B.1B_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal9 beveled segments must be >= 1.$$PVS$$
+$$PVS$$8 um and <= 3.2 um
+459 BONDPAD.B.1B_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal10 beveled segments must be >= 1$$PVS$$
+$$PVS$$.8 um and <= 3.2 um
+460 BONDPAD.B.1B_11 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal11 beveled segments must be >= 1$$PVS$$
+$$PVS$$.8 um and <= 3.2 um
+461 BONDPAD.SP.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via1 to Bondpad Via1 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+462 BONDPAD.SP.3_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via2 to Bondpad Via2 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+463 BONDPAD.SP.3_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via3 to Bondpad Via3 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+464 BONDPAD.SP.3_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via4 to Bondpad Via4 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+465 BONDPAD.SP.3_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via5 to Bondpad Via5 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+466 BONDPAD.SP.3_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via6 to Bondpad Via6 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+467 BONDPAD.SP.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via7 to Bondpad Via7 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+468 BONDPAD.SP.4_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via8 to Bondpad Via8 spacing must be $$PVS$$
+$$PVS$$>= 0.22 um
+469 BONDPAD.SP.4_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via9 to Bondpad Via9 spacing must be $$PVS$$
+$$PVS$$>= 0.54 um
+470 BONDPAD.SP.4_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via10 to Bondpad Via10 spacing must b$$PVS$$
+$$PVS$$e >= 0.54 um
+471 BONDPAD.E.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal1 to Via1 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+472 BONDPAD.E.2_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via2 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+473 BONDPAD.E.2_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via3 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+474 BONDPAD.E.2_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via4 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+475 BONDPAD.E.2_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via5 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+476 BONDPAD.E.2_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via6 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+477 BONDPAD.E.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal7 to Via7 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+478 BONDPAD.E.3_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via8 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+479 BONDPAD.E.3_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via9 enclosure must be >= 0.$$PVS$$
+$$PVS$$09 um
+480 BONDPAD.E.3_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via10 enclosure must be >= 0$$PVS$$
+$$PVS$$.09 um
+481 BONDPAD.E.2_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via1 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+482 BONDPAD.E.2_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via2 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+483 BONDPAD.E.2_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via3 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+484 BONDPAD.E.2_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via4 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+485 BONDPAD.E.2_11 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via5 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+486 BONDPAD.E.2_12 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal7 to Via6 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+487 BONDPAD.E.3_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via7 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+488 BONDPAD.E.3_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via8 enclosure must be >= 0.$$PVS$$
+$$PVS$$05 um
+489 BONDPAD.E.3_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal10 to Via9 enclosure must be >= 0$$PVS$$
+$$PVS$$.09 um
+490 BONDPAD.E.3_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal11 to Via10 enclosure must be >= $$PVS$$
+$$PVS$$0.09 um
+491 BONDPAD.R.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via1 inside Metal1 to Metal2 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+492 BONDPAD.R.1_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via2 inside Metal2 to Metal3 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+493 BONDPAD.R.1_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via3 inside Metal3 to Metal4 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+494 BONDPAD.R.1_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via4 inside Metal4 to Metal5 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+495 BONDPAD.R.1_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via5 inside Metal5 to Metal6 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+496 BONDPAD.R.1_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via6 inside Metal6 to Metal7 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+497 BONDPAD.R.1_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via7 inside Metal7 to Metal8 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+498 BONDPAD.R.1_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via8 inside Metal8 to Metal9 c$$PVS$$
+$$PVS$$rossing must be >= 16.0
+499 BONDPAD.R.2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.2: Minimum Bondpad Via9 inside Metal9 to Metal10 $$PVS$$
+$$PVS$$crossing must be >= 4.0
+500 BONDPAD.R.2_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.R.2: Minimum Bondpad Via10 inside Metal10 to Metal1$$PVS$$
+$$PVS$$1 crossing must be >= 4.0
+501 BONDPAD.SP.5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal1 slot to Bondpad Metal1 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+502 BONDPAD.SP.5_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal2 slot to Bondpad Metal2 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+503 BONDPAD.SP.5_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal3 slot to Bondpad Metal3 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+504 BONDPAD.SP.5_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal4 slot to Bondpad Metal4 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+505 BONDPAD.SP.5_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal5 slot to Bondpad Metal5 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+506 BONDPAD.SP.5_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal6 slot to Bondpad Metal6 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+507 BONDPAD.SP.5_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal7 slot to Bondpad Metal7 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+508 BONDPAD.SP.5_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal8 slot to Bondpad Metal8 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+509 BONDPAD.SP.5_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal9 slot to Bondpad Metal9 slot sp$$PVS$$
+$$PVS$$acing must be == 1.50
+510 BONDPAD.SP.5_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal10 slot to Bondpad Metal10 slot $$PVS$$
+$$PVS$$spacing must be == 1.50
+511 BONDPAD.W.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal1 slot width must be == 1.00
+512 BONDPAD.W.4_2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal2 slot width must be == 1.00
+513 BONDPAD.W.4_3 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal3 slot width must be == 1.00
+514 BONDPAD.W.4_4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal4 slot width must be == 1.00
+515 BONDPAD.W.4_5 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal5 slot width must be == 1.00
+516 BONDPAD.W.4_6 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal6 slot width must be == 1.00
+517 BONDPAD.W.4_7 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal7 slot width must be == 1.00
+518 BONDPAD.W.4_8 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal8 slot width must be == 1.00
+519 BONDPAD.W.4_9 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal9 slot width must be == 1.00
+520 BONDPAD.W.4_10 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal10 slot width must be == 1.00
+521 BONDPAD.W.5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal1 outside Metal1 ring width must $$PVS$$
+$$PVS$$be == 5.00
+522 BONDPAD.W.5_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal2 outside Metal2 ring width must $$PVS$$
+$$PVS$$be == 5.00
+523 BONDPAD.W.5_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal3 outside Metal3 ring width must $$PVS$$
+$$PVS$$be == 5.00
+524 BONDPAD.W.5_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal4 outside Metal4 ring width must $$PVS$$
+$$PVS$$be == 5.00
+525 BONDPAD.W.5_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal5 outside Metal5 ring width must $$PVS$$
+$$PVS$$be == 5.00
+526 BONDPAD.W.5_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal6 outside Metal6 ring width must $$PVS$$
+$$PVS$$be == 5.00
+527 BONDPAD.W.5_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal7 outside Metal7 ring width must $$PVS$$
+$$PVS$$be == 5.00
+528 BONDPAD.W.5_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal8 outside Metal8 ring width must $$PVS$$
+$$PVS$$be == 5.00
+529 BONDPAD.W.5_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal9 outside Metal9 ring width must $$PVS$$
+$$PVS$$be == 5.00
+530 BONDPAD.W.5_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal10 outside Metal10 ring width mus$$PVS$$
+$$PVS$$t be == 5.00
+531 BONDPAD.SP.6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal1 to Bondpad Metal1 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+532 BONDPAD.SP.6_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal2 to Bondpad Metal2 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+533 BONDPAD.SP.6_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal3 to Bondpad Metal3 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+534 BONDPAD.SP.6_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal4 to Bondpad Metal4 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+535 BONDPAD.SP.6_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal5 to Bondpad Metal5 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+536 BONDPAD.SP.6_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal6 to Bondpad Metal6 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+537 BONDPAD.SP.6_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal7 to Bondpad Metal7 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+538 BONDPAD.SP.6_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal8 to Bondpad Metal8 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+539 BONDPAD.SP.6_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal9 to Bondpad Metal9 spacing acro$$PVS$$
+$$PVS$$ss first slot must be >= 1.00 um and <= 3.50 um
+540 BONDPAD.SP.6_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal10 to Bondpad Metal10 spacing ac$$PVS$$
+$$PVS$$ross first slot must be >= 1.00 um and <= 3.50 um
+541 BONDPAD.SP.7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via1 array to Bondpad Via1 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+542 BONDPAD.SP.7_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via2 array to Bondpad Via2 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+543 BONDPAD.SP.7_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via3 array to Bondpad Via3 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+544 BONDPAD.SP.7_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via4 array to Bondpad Via4 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+545 BONDPAD.SP.7_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via5 array to Bondpad Via5 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+546 BONDPAD.SP.7_6 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via6 array to Bondpad Via6 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+547 BONDPAD.SP.7_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via7 array to Bondpad Via7 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+548 BONDPAD.SP.7_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via8 array to Bondpad Via8 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+549 BONDPAD.SP.7_9 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via9 array to Bondpad Via9 array spac$$PVS$$
+$$PVS$$ing must be >= 1.1 um
+550 BONDPAD.SP.7_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via10 array to Bondpad Via10 array sp$$PVS$$
+$$PVS$$acing must be >= 1.1 um
+551 OXIDER.W.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+OXIDER.W.1.1: Minimum Active Resistor width >= 0.1 um
+552 POLYR.W.1.1 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+POLYR.W.1.1: Minimum Poly resistor width >= 0.1 um
+553 soft_check_1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_1: pdiff_conn causing multiple stamped connectio$$PVS$$
+$$PVS$$ns to ptap
+554 soft_check_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_2: ptap has multiple stamped connections from pd$$PVS$$
+$$PVS$$iff_conn
+555 soft_check_4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_4: ptap causing multiple stamped connections to $$PVS$$
+$$PVS$$psubstrate
+556 soft_check_5 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_5: psubstrate has multiple stamped connections f$$PVS$$
+$$PVS$$rom ptap
+557 soft_check_7 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_7: ndiff_conn causing multiple stamped connectio$$PVS$$
+$$PVS$$ns to ntap
+558 soft_check_8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_8: ntap has multiple stamped connections from nd$$PVS$$
+$$PVS$$iff_conn
+559 soft_check_10 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_10: ntap causing multiple stamped connections to$$PVS$$
+$$PVS$$ nwell_conn
+560 soft_check_11 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_11: nwell_conn has multiple stamped connections $$PVS$$
+$$PVS$$from ntap
+561 soft_check_13 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_13: nwell_conn causing multiple stamped connecti$$PVS$$
+$$PVS$$ons to nb_tap
+562 soft_check_14 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_14: nb_tap has multiple stamped connections from$$PVS$$
+$$PVS$$ nwell_conn
+563 soft_check_16 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_16: nb_tap causing multiple stamped connections $$PVS$$
+$$PVS$$to Nburied
+564 soft_check_17 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+soft_check_17: Nburied has multiple stamped connections fro$$PVS$$
+$$PVS$$m nb_tap
+565 NW.SP.1 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SP.1: Minimum Nwell spacing to Nwell (same potential) >=$$PVS$$
+$$PVS$$ 0.3 um
+566 NW.SP.2_3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+NW.SP.2: Minimum Nwell spacing to Nwell (different potentia$$PVS$$
+$$PVS$$l) >= 0.6 um
+567 LATCHUP.3 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+LATCHUP.3: Minimum I/O or ESD NMOS to PMOS spacing >= 10.0 $$PVS$$
+$$PVS$$um
+568 LATCHUP.4 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+LATCHUP.4: Minimum I/O or ESD NMOS to PMOS spacing when not$$PVS$$
+$$PVS$$ blocked by a double guardring >= 30.0 um
+569 ESD.4 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.4: N+ source should connect to Pad or Bulk
+570 ESD.4_2 3
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.4: P+ source should connect to Pad or Nwell
+571 ESD.8 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.8: N+ drains must be non-salicided (except Contact area$$PVS$$
+$$PVS$$)
+572 ESD.8_2 4
+Rule File Pathname: /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PV$$PVS$$
+$$PVS$$SDRC/.technology.rul
+ESD.8: P+ drains must be non-salicided (except Contact area$$PVS$$
+$$PVS$$)

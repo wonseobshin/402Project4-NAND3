@@ -1,0 +1,2608 @@
+\# Program start time UTC 2019.11.06 03:28:43.377
+\# Local time Tuesday 5 November 2019, 7:28 pm
+\o Program:		@(#)$CDS: virtuoso version 6.1.6-64b 10/30/2014 22:43 (sjfnl172) $
+\o Hierarchy:		/ubc/ece/data/cmc2/tools/cadence/IC06.16.090_lnx86/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.6-64b.500.9  (64-bit addresses)
+\# Command line:	/CMC/tools/cadence/IC06.16.090_lnx86/tools/dfII/bin/64bit/virtuoso -log Mylog
+\# Host name (type):	ssh-soc (x86_64)
+\# Operating system:	Linux 2.6.32-754.12.1.el6.x86_64 #1 SMP Thu Mar 7 22:07:44 EST 2019
+\# Linux /etc/issue:	NOTE: This system is for the use of authorized users only
+\# X display name (WxH):	:1037.0 (734x832)
+\# Available geometry:			TL(0:25) BR(733:806)
+\# X server:			The X.Org Foundation
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 70000000)
+\# X resource pool:	base 0x2e00000, mask 0x1fffff (2097151), shift 0
+\# 			current id 0x0, current max 0x1ffffa (2097146)
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        307 MB
+\# Available memory:	     30,882 MB
+\# System memory:	     80,935 MB
+\# Maximum memory size:	     80,700 MB
+\# Max mem available:	     30,954 MB
+\# Initial memory used:	         73 MB
+\#        process size:	        745 MB
+\# Qt version:		4.7.2
+\# Window Manager:	gnome (metacity)
+\# User Name:		l6w0b
+\o Working Directory:	ssh-soc:/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds
+\# Process Id:		54960
+\o 
+\o COPYRIGHT © 1992-2014  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           © 1992-2014  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading pvsui.cxt.
+\o Loading LVS.cxt 
+\o Loading layerProc.cxt 
+\o Loading pte2.cxt 
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading vhdl.cxt 
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading ams.cxt 
+\o Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.18s.
+\a hiResizeWindow(window(1) list(5:164 730:357))
+\r t
+\a hiResizeWindow(window(1) list(5:193 730:386))
+\r t
+\a hiResizeWindow(window(1) list(5:218 730:411))
+\r t
+\a hiResizeWindow(window(1) list(5:224 730:417))
+\r t
+\a hiResizeWindow(window(1) list(5:229 730:422))
+\r t
+\a hiResizeWindow(window(1) list(5:251 730:444))
+\r t
+\a hiResizeWindow(window(1) list(5:266 730:459))
+\r t
+\a hiResizeWindow(window(1) list(5:287 730:480))
+\r t
+\a hiResizeWindow(window(1) list(5:310 730:503))
+\r t
+\a hiResizeWindow(window(1) list(5:344 730:537))
+\r t
+\a hiResizeWindow(window(1) list(5:350 730:543))
+\r t
+\a hiResizeWindow(window(1) list(5:352 730:545))
+\r t
+\a hiResizeWindow(window(1) list(5:356 730:549))
+\r t
+\a hiResizeWindow(window(1) list(5:359 730:552))
+\r t
+\a hiResizeWindow(window(1) list(5:364 730:557))
+\r t
+\a hiResizeWindow(window(1) list(5:383 730:576))
+\r t
+\a hiResizeWindow(window(1) list(5:420 730:613))
+\r t
+\a hiResizeWindow(window(1) list(5:436 730:629))
+\r t
+\a hiResizeWindow(window(1) list(5:441 730:634))
+\r t
+\a hiResizeWindow(window(1) list(5:444 730:637))
+\r t
+\a hiResizeWindow(window(1) list(5:447 730:640))
+\r t
+\a hiResizeWindow(window(1) list(5:448 730:641))
+\r t
+\p > 
+\a hiResizeWindow(window(1) list(5:480 730:673))
+\r t
+\a hiResizeWindow(window(1) list(5:485 730:678))
+\r t
+\a hiResizeWindow(window(1) list(5:486 730:679))
+\r t
+\a hiResizeWindow(window(1) list(5:487 730:680))
+\r t
+\a hiResizeWindow(window(1) list(5:490 730:683))
+\r t
+\a hiResizeWindow(window(1) list(5:492 730:685))
+\r t
+\a hiResizeWindow(window(1) list(5:494 730:687))
+\r t
+\a hiResizeWindow(window(1) list(5:570 730:763))
+\r t
+\a hiResizeWindow(window(1) list(5:577 730:770))
+\r t
+\a hiResizeWindow(window(1) list(5:580 730:773))
+\r t
+\a hiResizeWindow(window(1) list(5:584 730:777))
+\r t
+\a hiResizeWindow(window(1) list(5:585 730:778))
+\r t
+\a hiResizeWindow(window(1) list(5:584 730:777))
+\r t
+\a hiResizeWindow(window(1) list(5:583 730:776))
+\r t
+\a hiResizeWindow(window(1) list(5:581 730:774))
+\r t
+\a hiResizeWindow(window(1) list(5:580 730:773))
+\r t
+\a hiResizeWindow(window(1) list(5:578 730:771))
+\r t
+\a hiResizeWindow(window(1) list(5:577 730:770))
+\r t
+\a hiResizeWindow(window(1) list(5:576 730:769))
+\r t
+\a hiResizeWindow(window(1) list(5:575 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:559 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:525 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:508 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:476 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:448 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:430 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:402 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:366 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:356 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:314 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:263 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:235 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:206 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:180 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:151 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:136 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:115 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:104 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:102 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:98 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:96 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:99 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:110 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:111 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:127 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:128 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:133 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:134 730:768))
+\r t
+\a hiResizeWindow(window(1) list(5:135 730:768))
+\r t
+\# Available memory:         30,786 MB at UTC 2019.11.06 03:28:54.166
+\# Memory report: Maximum memory size now 30,931 MB at UTC 2019.11.06 03:28:54.167
+\a hiResizeWindow(window(1) list(5:84 730:717))
+\r t
+\a hiResizeWindow(window(1) list(5:38 730:671))
+\r t
+\a hiResizeWindow(window(1) list(5:25 730:658))
+\r t
+\a hiResizeWindow(window(1) list(5:-18 730:615))
+\r t
+\a hiResizeWindow(window(1) list(5:-31 730:602))
+\r t
+\a hiResizeWindow(window(1) list(5:-38 730:595))
+\r t
+\a hiResizeWindow(window(1) list(5:-41 730:592))
+\r t
+\a hiResizeWindow(window(1) list(5:-44 730:589))
+\r t
+\a hiResizeWindow(window(1) list(5:-48 730:585))
+\r t
+\a hiResizeWindow(window(1) list(5:-51 730:582))
+\r t
+\a hiResizeWindow(window(1) list(5:-52 730:581))
+\r t
+\a hiResizeWindow(window(1) list(5:-54 730:579))
+\r t
+\a hiResizeWindow(window(1) list(5:-57 730:576))
+\r t
+\a hiResizeWindow(window(1) list(5:-59 730:574))
+\r t
+\a hiResizeWindow(window(1) list(5:-62 730:571))
+\r t
+\a hiResizeWindow(window(1) list(5:-67 730:566))
+\r t
+\a hiResizeWindow(window(1) list(5:-68 730:565))
+\r t
+\a hiResizeWindow(window(1) list(5:-69 730:564))
+\r t
+\a hiResizeWindow(window(1) list(5:-65 730:568))
+\r t
+\a hiResizeWindow(window(1) list(5:-39 730:594))
+\r t
+\a hiResizeWindow(window(1) list(5:-20 730:613))
+\r t
+\a hiResizeWindow(window(1) list(5:-17 730:616))
+\r t
+\a hiResizeWindow(window(1) list(5:20 730:653))
+\r t
+\a hiResizeWindow(window(1) list(5:45 730:678))
+\r t
+\a hiResizeWindow(window(1) list(5:68 730:701))
+\r t
+\a hiResizeWindow(window(1) list(5:71 730:704))
+\r t
+\a hiResizeWindow(window(1) list(5:74 730:707))
+\r t
+\a hiResizeWindow(window(1) list(5:75 730:708))
+\r t
+\a hiResizeWindow(window(1) list(5:76 730:709))
+\r t
+\a hiResizeWindow(window(1) list(5:77 730:710))
+\r t
+\a hiResizeWindow(window(1) list(5:78 730:711))
+\r t
+\a hiResizeWindow(window(1) list(5:80 730:713))
+\r t
+\a hiResizeWindow(window(1) list(5:82 730:715))
+\r t
+\a hiResizeWindow(window(1) list(5:111 730:744))
+\r t
+\a ddsHiCreateLibrary()
+\p > 
+\a hiiSetCurrentForm('ddsCreateLibForm)
+\r t
+\a hiFormCancel(ddsCreateLibForm) 
+\r t
+\r nil
+\a deOpen()
+\p > 
+\a hiiSetCurrentForm('deOpenForm)
+\r t
+\a hiFormCancel(deOpenForm) 
+\r t
+\r nil
+\a deOpen()
+\p > 
+\a ddsOpenLibManager()
+\r t
+\o  
+\o Library Manager new cellview request for library "ELEC402".
+\i deNew('(nil libName "ELEC402"))
+\p > 
+\a hiFormCancel(deOpenForm) 
+\r t
+\a hiiSetCurrentForm('deNewForm)
+\r t
+\a hiFormCancel(deNewForm) 
+\r t
+\r nil
+\o  
+\o Library Manager new cellview request for library "ELEC402".
+\i deNew('(nil libName "ELEC402"))
+\p > 
+\a hiFormCancel(deNewForm) 
+\r t
+\o  
+\o Library Manager new cellview request for library "ELEC402".
+\i deNew('(nil libName "ELEC402"))
+\p > 
+\a hiFormCancel(deNewForm) 
+\r t
+\a deNew()
+\p > 
+\a deNewForm->deCellName->value="NAND3"
+\r "NAND3"
+\a hiFormDone(deNewForm)
+\r t
+\w *WARNING* (icLic-3) Could not get license Virtuoso_Schematic_Editor_L
+\p > 
+\a hiDBoxUser(_icLicLicenseQuestionDBox nil 1)
+\r t
+\o *INFO* (icLic-25) License Virtuoso_Schematic_Editor_XL ("95115") was used to run Schematics L.
+\o Loading gpdk045/libInit.il ...
+\o 	Loading gpdk045/loadCxt.ile ... done!
+\o 	Loading context 'gpdk045' from library 'gpdk045' ... done!
+\o 	Loading context 'pdkUtils' from library 'gpdk045' ... done!
+\o 	Loading gpdk045/gpdk045_customFilter.il ... done!
+\o 	Loading gpdk045/libInitCustomExit.il ... 
+\o 	Loading Environment Settings ...
+\o 	Loading Model Management File ...
+\o Loading oasis.cxt 
+\o Loading analog.cxt 
+\o Loading asimenv.cxt 
+\o Loading spectrei.cxt 
+\o Loading devCheck.cxt 
+\o Loading relXpert.cxt 
+\o Loading hspiceD.cxt 
+\o Loading spectreinl.cxt 
+\o Loading UltraSim.cxt 
+\o Loading msgHandler.cxt 
+\o Loading AMSOSS.cxt 
+\o Loading AMS.cxt 
+\# Memory report: using         242 MB, process size 946 MB at UTC 2019.11.06 03:37:22.120
+\o 	Loading gpdk045/gpdk045_PDKRegistrations.il ... done!
+\o 
+\o   *************************************************************           
+\o   *              Cadence Design Systems, Inc.                 *           
+\o   *                                                           *           
+\o   *                    Generic 45nm PDK                       *           
+\o   *                        (gpdk045)                          *           
+\o   *                                                           *           
+\o   *************************************************************           
+\o 	
+\o 
+\o 	VERSION: 4.0 (17-June-2014)
+\o 
+\o done!
+\o Loaded gpdk045/libInit.il successfully!
+\o Loading schematic.cxt 
+\o Loading vb.cxt 
+\o Loading nt.cxt 
+\o Loading oi.cxt 
+\o Loading see.cxt 
+\o Loading treeAssistant.cxt 
+\o Loading asst.cxt 
+\o Loading mtv.cxt 
+\o Loading le.cxt 
+\w *WARNING* (GE-2181): The font (name,size): (courier,12) does not exist. Please verify its validity with 'xlsfonts' or with 'xfontsel'.
+\w *WARNING* (GE-2181): The font (name,size): (courier,12) does not exist. Please verify its validity with 'xlsfonts' or with 'xfontsel'.
+\o Loading leToolbox.cxt 
+\o Loading hsm.cxt 
+\o Loading simui.cxt 
+\o Loading lx.cxt 
+\o Loading lce.cxt 
+\r window:2
+\a when(dwindow('oiAssistant1) hiMapWindow(dwindow('oiAssistant1)))
+\r t
+\a when(dwindow('treeAssistant1) hiMapWindow(dwindow('treeAssistant1)))
+\r t
+\a schSingleSelectPt()
+\i -0.25:0.8125
+\r nil
+\a schHiDisplayOptions()
+\p > 
+\a hiiSetCurrentForm('schDisplayOptionsForm)
+\r t
+\a hiFormCancel(schDisplayOptionsForm) 
+\r t
+\r nil
+\a schSingleSelectPt()
+\i -0.75:0.1875
+\r nil
+\a schHiCreatePin()
+\o Loading cdf.cxt 
+\p > 
+\a hiiSetCurrentForm('schCreatePinForm)
+\r t
+\a hiiToggleEnterForm(schCreatePinForm) 
+\r t
+\a mouseAddPt(t)
+\i -0.53125:0.475
+\r t
+\a schHiCreateInst()
+\r t
+\a hiiSetCurrentForm('schCreateInstForm)
+\r t
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("GSCLIB045" "" "")
+\i ddsServSelect("gpdk045" "" "")
+\i ddsServSelect("gpdk045" "nmos1v" "")
+\i ddsServSelect("gpdk045" "nmos1v_3" "")
+\i ddsServSelect("gpdk045" "nmos1v_hvt" "")
+\i ddsServSelect("gpdk045" "nmos1v_hvt_3" "")
+\i ddsServSelect("gpdk045" "nmos1v_lvt" "")
+\i ddsServSelect("gpdk045" "nmos1v_nat" "")
+\i ddsServSelect("gpdk045" "nmos1v_lvt_3" "")
+\i ddsServSelect("gpdk045" "nmos2v_3" "")
+\i ddsServSelect("gpdk045" "nmos1v_nat_3" "")
+\i ddsServSelect("gpdk045" "nmos2v" "")
+\i ddsServSelect("gpdk045" "nmos1v" "")
+\a mouseAddPt(t)
+\i 1.50625:1.19375
+\r t
+\a mouseAddPt(t)
+\i 0.9:0.8875
+\r t
+\i ddsServSelect("gpdk045" "" "")
+\a mouseAddPt(t)
+\i 1.525:0.8375
+\r t
+\i ddsServSelect("gpdk045" "nmos1v" "")
+\i ddsServSelect("gpdk045" "nmos1v" "symbol")
+\i ddsServSelect("gpdk045" "nmos1v" "spectre")
+\i ddsServSelect("gpdk045" "nmos1v" "hspiceD")
+\i ddsServSelect("gpdk045" "nmos1v" "auLvs")
+\i ddsServSelect("gpdk045" "nmos1v" "auCdl")
+\i ddsServSelect("gpdk045" "nmos1v" "symbol")
+\a mouseAddPt(t)
+\i 1.35:0.7125
+\r t
+\a mouseAddPt(t)
+\i 0.75:0.69375
+\r t
+\a mouseAddPt(t)
+\i 0.26875:0.675
+\r t
+\a schHiMove()
+\r t
+\a geSingleSelectBox()
+\i 0.875:0.6875
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 0.875:0.6875
+\r t
+\r nil
+\a mouseAddPt(t)
+\i 0.84375:0.6875
+\r t
+\a geSingleSelectBox()
+\i 0.875:0.6875
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 0.875:0.6875
+\r t
+\r nil
+\a mouseAddPt(t)
+\i 0.875:0.6625
+\r t
+\a mouseAddPt(t)
+\i 0.38125:0.01875
+\r t
+\a mouseAddPt(t)
+\i 1.525:0.6875
+\r t
+\a mouseAddPt(t)
+\i 0.35:-0.59375
+\r t
+\a mouseAddPt(t)
+\i 0.3875:0.6625
+\r t
+\a mouseAddPt(t)
+\i 0.3875:0.6125
+\r t
+\a schHiCreateInst()
+\r t
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("gpdk045" "nmos1v" "symbol")
+\i ddsServSelect("gpdk045" "pmos1v" "symbol")
+\a mouseAddPt(t)
+\i -0.31875:1.46875
+\r t
+\a mouseAddPt(t)
+\i 0.275:1.48125
+\r t
+\a mouseAddPt(t)
+\i 0.8125:1.46875
+\r t
+\a schHiMove()
+\r t
+\a schHiCreateWire(0.0)
+\o Loading layers.cxt 
+\r t
+\a mouseAddPt(t)
+\i 0.51875:0.19375
+\r t
+\a mouseAddPt(t)
+\i 0.4875:0.41875
+\r t
+\a mouseAddPt(t)
+\i 0.51875:-0.2125
+\r t
+\a mouseAddPt(t)
+\i 0.5125:-0.44375
+\r t
+\a mouseAddPt(t)
+\i 0.51875:0.79375
+\r t
+\a mouseAddPt(t)
+\i 0.4875:1.3125
+\r t
+\a mouseAddPt(t)
+\i -0.05625:1.28125
+\r t
+\a mouseAddPt(t)
+\i 0.51875:1.1
+\r t
+\a mouseAddPt(t)
+\i 0.5:1.09375
+\r t
+\a mouseAddPt(t)
+\i 1.04375:1.2875
+\r t
+\a schHiCreateInst()
+\r t
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("gpdk045" "pmos1v" "symbol")
+\i ddsServSelect("gpdk045" "pmos1v" "symbol")
+\i ddsServSelect("analogLib" "" "")
+\i ddsServSelect("analogLib" "gnd" "symbol")
+\i ddsServSelect("analogLib" "gnd" "symbol_xform")
+\a mouseAddPt(t)
+\i 0.4875:-0.925
+\r t
+\a schHiCreateInst()
+\r t
+\i ddsServSelect("analogLib" "gnd" "symbol_xform")
+\i ddsServSelect("analogLib" "vdd" "symbol_xform")
+\i ddsServSelect("analogLib" "vdd" "symbol")
+\i ddsServSelect("analogLib" "vdd" "symbol_xform")
+\a schSetEnv("rotate" t)
+\r t
+\a schSetEnv("rotate" t)
+\r t
+\a schSetEnv("rotate" t)
+\r t
+\a mouseAddPt(t)
+\i -1.03125:1.83125
+\r t
+\a schHiCreateInst()
+\r t
+\i ddsServSelect("analogLib" "vdd" "symbol_xform")
+\a schHiCreatePin()
+\r t
+\a hiiSetCurrentForm('schCreatePinForm)
+\r t
+\a schCreatePinForm->terminalName->value="VDD"
+\r "VDD"
+\a mouseAddPt(t)
+\i -0.3125:-1.375
+\r t
+\a schHiCreatePin()
+\r t
+\a schHiCreatePin()
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i -0.93125:1.85625
+\r t
+\a mouseAddPt(t)
+\i 0.5375:-1.15625
+\r t
+\a schHiMove()
+\r t
+\a schHiCreatePin()
+\r t
+\a schCreatePinForm->terminalName->value="GND"
+\r "GND"
+\a mouseAddPt(t)
+\i -0.45:-1.1
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -0.44375:-1.425
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiiSetCurrentForm('schObjPropForm)
+\r t
+\a schObjPropForm->pinSignalType->value="analog"
+\r "analog"
+\a schObjPropForm->pinSignalType->value="power"
+\r "power"
+\a _hiFormApplyCB(schObjPropForm)
+\o INFO (SCH-1183): No changes were made. No objects updated.
+\r t
+\a _hiFormApplyCB(schObjPropForm)
+\o INFO (SCH-1183): No changes were made. No objects updated.
+\r t
+\a hiFormCancel(schObjPropForm) 
+\r t
+\a mouseAddPt(t)
+\i -0.99375:1.81875
+\r t
+\a schHiMousePopUp()
+\i -0.5:-1.125
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiFormCancel(schObjPropForm) 
+\r t
+\a mouseAddPt(t)
+\i -0.5125:-1.1375
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiFormCancel(schObjPropForm) 
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -0.48125:-1.15
+\r t
+\a mouseAddPt(t)
+\i 1.08125:-1.13125
+\r t
+\a mouseAddPt(t)
+\i 0.51875:-0.625
+\r t
+\a mouseAddPt(t)
+\i 1.05625:-0.6375
+\r t
+\a mouseAddPt(t)
+\i 0.51875:0.00625
+\r t
+\a mouseAddPt(t)
+\i 1.0625:-0.0125
+\r t
+\a mouseAddPt(t)
+\i 0.51875:0.625
+\r t
+\a mouseAddPt(t)
+\i 0.5:-0.825
+\r t
+\a mouseAddPt(t)
+\i 0.5:-1.1375
+\r t
+\a mouseAddPt(t)
+\i -0.91875:1.8625
+\r t
+\a mouseAddPt(t)
+\i 1.0625:1.8625
+\r t
+\a mouseAddPt(t)
+\i 1.075:1.7125
+\r t
+\a mouseAddPt(t)
+\i 0.49375:1.8625
+\r t
+\a mouseAddPt(t)
+\i 0.49375:1.6875
+\r t
+\a mouseAddPt(t)
+\i -0.06875:1.8625
+\r t
+\a mouseAddPt(t)
+\i -0.05625:1.6875
+\r t
+\a mouseAddPt(t)
+\i -0.05625:1.6625
+\r t
+\a mouseAddPt(t)
+\i -0.05625:1.4875
+\r t
+\a mouseAddPt(t)
+\i 0.51875:1.7
+\r t
+\a mouseAddPt(t)
+\i 0.5125:1.5
+\r t
+\a mouseAddPt(t)
+\i 1.06875:1.66875
+\r t
+\a mouseAddPt(t)
+\i 1.08125:1.5
+\r t
+\a schHiCreatePin()
+\r t
+\a hiiSetCurrentForm('schCreatePinForm)
+\r t
+\a schCreatePinForm->terminalName->value="A"
+\r "A"
+\a hiiToggleEnterForm(schCreatePinForm)
+\r t
+\a mouseAddPt(t)
+\i -0.9:1.4875
+\r t
+\a schHiCreatePin()
+\r t
+\a schCreatePinForm->terminalName->value="B"
+\r "B"
+\a mouseAddPt(t)
+\i -0.9625:1.2875
+\r t
+\a schCreatePinForm->terminalName->value="C"
+\r "C"
+\a mouseAddPt(t)
+\i -0.93125:1.1375
+\r t
+\a hiiToggleEnterForm(schCreatePinForm) 
+\r t
+\a mouseAddPt(t)
+\i -0.3125:1.49375
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->nets->checked=t
+\r t
+\a mouseAddPt(t)
+\i -0.31875:1.5
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -0.30625:1.46875
+\r t
+\a mouseAddPt(t)
+\i -0.93125:1.48125
+\r t
+\a mouseAddPt(t)
+\i 0.23125:1.5
+\r t
+\a mouseAddPt(t)
+\i -0.96875:1.31875
+\r t
+\a mouseAddPt(t)
+\i 0.8375:1.5
+\r t
+\a mouseAddPt(t)
+\i -0.99375:1.1
+\r t
+\a schHiCreatePin()
+\r t
+\a schCreatePinForm->terminalName->value="OUT"
+\r "OUT"
+\a schCreatePinForm->direction->value="output"
+\r "output"
+\a schCreatePinForm->direction->value="output"
+\r "output"
+\a schCreatePinForm->terminalName->value="OUTrr"
+\r "OUTrr"
+\a schSetEnv("rotate" t)
+\r t
+\a schSetEnv("rotate" t)
+\r t
+\a mouseAddPt(t)
+\i 1.63125:1.13125
+\r t
+\a schHiMousePopUp()
+\i 1.5625:1.125
+\r t
+\a hiPopupDown(schNonePopUp)
+\r t
+\a mouseAddPt(t)
+\i 1.0625:1.13125
+\r t
+\a mouseAddPt(t)
+\i 1.575:1.11875
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->nets->checked=nil
+\r nil
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i 1.56875:1.125
+\r t
+\a mouseAddPt(t)
+\i 1.6:1.125
+\r t
+\a geSingleSelectBox()
+\i 1.1875:1.3125
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 2:0.75
+\r t
+\r nil
+\a geSingleSelectBox()
+\i -1.75:-1.3125
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 2.0625:2.3125
+\r t
+\r t
+\a hiZoomInAtMouse()
+\i 1.3125:1
+\r t
+\a hiZoomOutAtMouse()
+\i 1.3125:1
+\r t
+\a mouseAddPt(t)
+\i 1.5875:1.1125
+\r t
+\a mouseAddPt(t)
+\i 1.38125:1.025
+\r t
+\a hiZoomOut()
+\p > 
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a hiRedo()
+\r t
+\a mouseAddPt(t)
+\i 1.5875:1.1125
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i 1.575:1.1125
+\r t
+\a geSingleSelectBox()
+\i 1.1875:1.1875
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 1.9375:0.875
+\r t
+\r nil
+\a schMouseApplyOrFinish()
+\i 1.625:1.125
+\r t
+\a mouseAddPt(t)
+\i 1.61875:1.14375
+\r t
+\a geSingleSelectBox()
+\i 1.3125:1.125
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 1.6875:0.9375
+\r t
+\r nil
+\a mouseAddPt(t)
+\i -1:1.0875
+\r t
+\a geSingleSelectBox()
+\i -1.125:1.5625
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i -0.625:0.9375
+\r t
+\r t
+\a mouseAddPt(t)
+\i -0.94375:1.4875
+\r t
+\a mouseAddPt(t)
+\i -0.1875:0.29375
+\r t
+\a hiRedo()
+\r nil
+\a mouseAddPt(t)
+\i -0.575:-0.3875
+\r t
+\a hiUndo()
+\r t
+\a mouseAddPt(t)
+\i 0.5:1.1125
+\r t
+\a mouseAddPt(t)
+\i 1.5875:1.13125
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=t
+\r t
+\a mouseAddPt(t)
+\i 1.60625:1.0875
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiiSetCurrentForm('schObjPropForm)
+\r t
+\a schObjPropForm->pinName->value="OUT"
+\r "OUT"
+\a hiFormDone(schObjPropForm)
+\r t
+\a mouseAddPt(t)
+\i 1.60625:1.0875
+\r t
+\a mouseAddPt(t)
+\i -1:1.0875
+\r t
+\a mouseAddPt(t)
+\i -1.375:1.0875
+\r t
+\a mouseAddPt(t)
+\i -1.375:1.1125
+\r t
+\a mouseAddPt(t)
+\i -0.975:1.10625
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->nets->checked=t
+\r t
+\a mouseAddPt(t)
+\i 1.05:1.125
+\r t
+\a mouseAddPt(t)
+\i 1.00625:1.0875
+\r t
+\a mouseAddPt(t)
+\i 1:1.05625
+\r t
+\a mouseAddPt(t)
+\i 1.08125:1.125
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i 1.55625:1.1125
+\r t
+\a mouseAddPt(t)
+\i 1.0625:1.125
+\r t
+\a mouseAddPt(t)
+\i -0.4125:1.5
+\r t
+\a mouseAddPt(t)
+\i 0.2375:0.63125
+\r t
+\a mouseAddPt(t)
+\i -0.20625:1.2375
+\r t
+\a mouseAddPt(t)
+\i 0.225:0.025
+\r t
+\a mouseAddPt(t)
+\i -0.05625:1.175
+\r t
+\a mouseAddPt(t)
+\i 0.25:-0.61875
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=t
+\r t
+\a mouseAddPt(t)
+\i -0.9625:1.8625
+\r t
+\a mouseAddPt(t)
+\i -0.9625:1.8625
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->text->checked=t
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=t
+\r t
+\a mouseAddPt(t)
+\i -1.24375:1.71875
+\r t
+\a mouseAddPt(t)
+\i -1.38125:1.59375
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a swindow(1)->hiToolbars->schSelectToolbar_1->nets->checked=t
+\r t
+\a mouseAddPt(t)
+\i -1.2875:1.66875
+\r t
+\a geSingleSelectBox()
+\i -1.375:1.8125
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i -1.1875:1.5625
+\r t
+\r t
+\a schHiDelete()
+\r t
+\a schHiDelete()
+\r t
+\a geSingleSelectBox()
+\i -1.5625:1.8125
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i -1.1875:1.5625
+\r t
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -0.9375:1.875
+\r t
+\a mouseAddPt(t)
+\i -0.70625:1.90625
+\r t
+\a mouseAddPt(t)
+\i -0.93125:1.875
+\r t
+\a mouseAddPt(t)
+\i -0.6875:1.9125
+\r t
+\a mouseAddPt(t)
+\i -0.925:1.84375
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=t
+\r t
+\a mouseAddPt(t)
+\i -0.9375:1.875
+\r t
+\a mouseAddPt(t)
+\i -1.31875:1.8625
+\r t
+\a mouseAddPt(t)
+\i -1.31875:1.8625
+\r t
+\a mouseAddPt(t)
+\i -0.9375:1.875
+\r t
+\a mouseAddPt(t)
+\i -0.96875:1.8375
+\r t
+\a mouseAddPt(t)
+\i -0.96875:1.8375
+\r t
+\a schHiMousePopUp()
+\i -1:1.8125
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiFormCancel(schObjPropForm) 
+\r t
+\a mouseAddPt(t)
+\i -0.9375:1.84375
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a schObjPropForm->pinDir->value="output"
+\r "output"
+\a schObjPropForm->pinDir->value="inputOutput"
+\r "inputOutput"
+\a hiFormDone(schObjPropForm)
+\r t
+\a mouseAddPt(t)
+\i 1.5875:1.125
+\r t
+\a mouseAddPt(t)
+\i 1.5875:1.125
+\r t
+\a mouseAddPt(t)
+\i 1.5875:1.1125
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiFormDone(schObjPropForm)
+\o INFO (SCH-1183): No changes were made. No objects updated.
+\r t
+\a mouseAddPt(t)
+\i 1.575:1.1
+\r t
+\a mouseAddPt(t)
+\i -0.50625:-1.1375
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schPinPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a schObjPropForm->pinDir->value="inputOutput"
+\r "inputOutput"
+\a hiFormDone(schObjPropForm)
+\r t
+\a schHiViewToView()
+\p > 
+\a hiiSetCurrentForm('schViewToViewForm)
+\r t
+\a hiFormDone(schViewToViewForm)
+\p > 
+\a hiiSetCurrentForm('schSgForm)
+\r t
+\a schSgForm->bottomPins->value="GND"
+\r "GND"
+\a schSgForm->topPins->value="VDD"
+\r "VDD"
+\a hiFormDone(schSgForm)
+\o Symbol (NAND3 symbol) generated and saved in library:ELEC402.
+\r t
+\o INFO (SCH-1061): Completed generating design in library "ELEC402" as "NAND3" "symbol".
+\o Adding CDF information ...
+\o     Adding base cell CDF parameter information ...
+\o     Adding base cell CDF simulation information ...
+\r t
+\r t
+\a when(dwindow('oiAssistant2) hiMapWindow(dwindow('oiAssistant2)))
+\r t
+\a when(dwindow('treeAssistant2) hiMapWindow(dwindow('treeAssistant2)))
+\r t
+\a mouseSingleSelectPt()
+\i 0.6875:0.3125
+\r t
+\a schHiDelete()
+\p > 
+\a mouseAddPt(t)
+\i 0.70625:0.30625
+\r t
+\a mouseAddPt(t)
+\i 1.3125:-0.3875
+\r t
+\a schHiCreateSymbolShape("line" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.25625:0.375
+\r t
+\a mouseAddPt(t)
+\i 0.24375:-0.61875
+\r t
+\a mouseAddPt(t)
+\i 1.28125:-0.625
+\r t
+\a mouseAddPt(t)
+\i 1.3125:0.375
+\r t
+\a mouseAddPt(t)
+\i 0.25625:0.375
+\r t
+\a schHiCreateSymbolShape("rectangle" "outline")
+\r t
+\a mouseAddPt(t)
+\i 1.31875:0.1375
+\r t
+\a mouseAddPt(t)
+\i 1.31875:0.075
+\w *WARNING* (SCH-2505): The area of a rectangle can not be zero. Check that the points which define this shape result in a non-zero area.
+\r t
+\a mouseAddPt(t)
+\i 1.31875:0.28125
+\r t
+\a mouseAddPt(t)
+\i 1.30625:-0.5125
+\w *WARNING* (SCH-2505): The area of a rectangle can not be zero. Check that the points which define this shape result in a non-zero area.
+\r t
+\a mouseAddPt(t)
+\i 1.0125:0.375
+\r t
+\a mouseAddPt(t)
+\i 1.03125:0.53125
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a mouseAddPt(t)
+\i 1.025:0.53125
+\r t
+\a geSingleSelectBox()
+\i 1:0.625
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i 1.25:0.4375
+\r t
+\r nil
+\a mouseAddPt(t)
+\i 1.4125:0.875
+\r t
+\a mouseAddPt(t)
+\i 1.28125:0.68125
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i 1.05:0.56875
+\r t
+\a mouseAddPt(t)
+\i 1.325:0.2
+\r t
+\a schHiCreateSymbolShape("line" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.8375:0.3
+\r t
+\a mouseAddPt(t)
+\i 0.25625:0.3
+\r t
+\a mouseAddPt(t)
+\i 0.275:-0.63125
+\r t
+\a mouseAddPt(t)
+\i 0.83125:-0.6375
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a mouseSingleSelectPt()
+\i 0.8125:0.3125
+\r t
+\a mouseSingleSelectPt()
+\i 0.25:0.3125
+\r nil
+\a schHiCreateSymbolShape("line" "outline")
+\p > 
+\a mouseAddPt(t)
+\i 0.83125:0.31875
+\r t
+\a mouseAddPt(t)
+\i 0.25625:0.30625
+\r t
+\a mouseAddPt(t)
+\i 0.24375:-0.61875
+\r t
+\a mouseAddPt(t)
+\i 0.80625:-0.63125
+\r t
+\a schHiMousePopUp()
+\i 1.0625:-0.4375
+\r t
+\a hiPopupDown(schSymbolNonePopUp)
+\r t
+\a schHiSymStretch()
+\r t
+\a mouseAddPt(t)
+\i 0.80625:0.30625
+\r t
+\a mouseAddPt(t)
+\i 1.40625:0.66875
+\r t
+\a hiUndo()
+\r t
+\a schHiCreateSymbolShape("line" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.825:0.3
+\r t
+\a mouseAddPt(t)
+\i 0.24375:0.3
+\r t
+\a mouseAddPt(t)
+\i 0.24375:-0.625
+\r t
+\a mouseAddPt(t)
+\i 0.83125:-0.64375
+\r t
+\a mouseAddPt(t)
+\i 0.8375:0.31875
+\r t
+\a schHiCreateSymbolShape("arc" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.8125:0.31875
+\r t
+\a mouseAddPt(t)
+\i 0.825:-0.625
+\r t
+\a mouseAddPt(t)
+\i 1.2625:-0.2
+\r t
+\a schHiCreateSymbolShape("rectangle" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.825:0
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.8125:-0.06875
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("rectangle" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("line" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiCreateSymbolShape("polygon" "outline")
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i 0.83125:-0.06875
+\r t
+\a hiUndo()
+\r t
+\a schHiVICAndSave()
+\o INFO (SCH-1171): Cross View Check completed with no errors.
+\o INFO (SCH-1181): "ELEC402 NAND3 symbol" saved.
+\r t
+\a hiSetCurrentWindow(window(2))
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "NAND3 schematic"
+\o Warning: Solder dot on cross over at ( 0.5000, 1.1250 ).
+\o INFO (SCH-1172): There were 0 errors and 1 warning found in "ELEC402 NAND3 schematic".
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o INFO (SCH-1181): "ELEC402 NAND3 schematic" saved.
+\r t
+\a hiSetCurrentWindow(window(3))
+\r t
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a mouseAddPt(t)
+\i 1.5625:-0.88125
+\r t
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a mouseAddPt(t)
+\i 0.825:0.0125
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a mouseAddPt(t)
+\i 1.0125:0.24375
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r nil
+\a hiUndo()
+\r nil
+\a hiRedo()
+\r t
+\a hiRedo()
+\r nil
+\a mouseAddPt(t)
+\i 0.81875:0.01875
+\r t
+\a mouseAddPt(t)
+\i 0.25625:0.30625
+\r t
+\a schHiMove()
+\r t
+\a schHiCreateSymbolShape("rectangle" "outline")
+\r t
+\a mouseAddPt(t)
+\i 0.26875:0.3
+\r t
+\a mouseAddPt(t)
+\i 1.3125:-0.60625
+\r t
+\a schHiVICAndSave()
+\o INFO (SCH-1171): Cross View Check completed with no errors.
+\o INFO (SCH-1181): "ELEC402 NAND3 symbol" saved.
+\r t
+\a hiSetCurrentWindow(window(2))
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "NAND3 schematic"
+\o Warning: Solder dot on cross over at ( 0.5000, 1.1250 ).
+\o INFO (SCH-1172): There were 0 errors and 1 warning found in "ELEC402 NAND3 schematic".
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o INFO (SCH-1181): "ELEC402 NAND3 schematic" saved.
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -1:-0.28125
+\r t
+\a hiSetCurrentWindow(window(3))
+\r t
+\a mouseAddPt(t)
+\i 0.525:0.45
+\r t
+\a ddsHiCreateLibrary()
+\p > 
+\a hiiSetCurrentForm('ddsCreateLibForm)
+\r t
+\a hiFormCancel(ddsCreateLibForm) 
+\r t
+\r nil
+\a hiSetCurrentWindow(window(2))
+\r t
+\a _deUpdateMenu('schematicTools 2)
+\r t
+\a schHiNewCellView()
+\p > 
+\a hiiSetCurrentForm('deNewForm)
+\r t
+\a deNewForm->deCellName->value="NAND3_TB"
+\r "NAND3_TB"
+\a hiFormDone(deNewForm)
+\r t
+\r window:4
+\a hiRaiseWindow(window(4))
+\r t
+\a schHiCreateInst()
+\p > 
+\a hiiSetCurrentForm('schCreateInstForm)
+\r t
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("analogLib" "vdd" "symbol_xform")
+\i ddsServSelect("ELEC402" "" "")
+\i ddsServSelect("ELEC402" "NAND3" "symbol")
+\a mouseAddPt(t)
+\i -1.24375:0.675
+\r t
+\a schHiMove()
+\r t
+\a schHiCreateInst()
+\r t
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("ELEC402" "NAND3" "symbol")
+\i ddsServSelect("analogLib" "" "")
+\i ddsServSelect("analogLib" "vdc" "symbol")
+\i ddsServSelect("analogLib" "vdc" "symbol_xform")
+\i ddsServSelect("analogLib" "vdc" "symbol")
+\a mouseAddPt(t)
+\i 1.39375:1.38125
+\r t
+\a schHiCreateInst()
+\r t
+\i ddsServSelect("analogLib" "vdc" "symbol")
+\i ddsServSelect("analogLib" "gnd" "symbol")
+\a mouseAddPt(t)
+\i -0.41875:-0.1875
+\r t
+\a mouseAddPt(t)
+\i 1.375:0.96875
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->nets->checked=t
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i 1.39375:1.3875
+\r t
+\a mouseAddPt(t)
+\i -0.4625:1.375
+\r t
+\a mouseAddPt(t)
+\i -0.44375:1.2625
+\r t
+\a schHiCreateInst()
+\r t
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("analogLib" "gnd" "symbol")
+\i ddsServSelect("analogLib" "vpulse" "symbol")
+\a mouseAddPt(t)
+\i 1.3875:0.0875
+\r t
+\a mouseAddPt(t)
+\i -1.6875:0.5
+\r t
+\a mouseAddPt(t)
+\i -1.26875:0.43125
+\r t
+\a mouseAddPt(t)
+\i -1.94375:0.70625
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -1.68125:0.33125
+\r t
+\a mouseAddPt(t)
+\i -1.7:0.26875
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=t
+\r t
+\a mouseAddPt(t)
+\i -1.66875:0.3
+\r t
+\a mouseAddPt(t)
+\i -1.31875:-0.3
+\r t
+\a geSingleSelectBox()
+\i -1.5:0
+\p > 
+\a addPoint(hiGetCommandPoint())
+\i -1.8125:0.5625
+\r t
+\r nil
+\a mouseAddPt(t)
+\i -1.725:0.34375
+\r t
+\a mouseAddPt(t)
+\i -1.66875:0.5125
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i 1.41875:-0.1375
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i 1.40625:-0.175
+\r t
+\a mouseAddPt(t)
+\i 1.39375:0.04375
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=nil
+\r nil
+\a swindow(1)->hiToolbars->schSelectToolbar_1->nets->checked=t
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->default->checked=t
+\r t
+\a mouseAddPt(t)
+\i 1.425:-0.14375
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -1.6625:0.275
+\r t
+\a mouseAddPt(t)
+\i -1.55:0.3125
+\r t
+\a mouseAddPt(t)
+\i -1.925:0.4875
+\r t
+\a mouseAddPt(t)
+\i -1.84375:0.4875
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -1.85:0.68125
+\r t
+\a mouseAddPt(t)
+\i -1.23125:0.675
+\r t
+\a mouseAddPt(t)
+\i -1.55:0.55625
+\r t
+\a mouseAddPt(t)
+\i -1.2:0.53125
+\r t
+\a schHiCreateInst()
+\r t
+\a schCreateInstForm->cellName->value="gnd"
+\r "gnd"
+\a hiiToggleEnterForm(schCreateInstForm)
+\r t
+\a mouseAddPt(t)
+\i -1.54375:-0.15
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -1.88125:0.31875
+\r t
+\a mouseAddPt(t)
+\i -1.85:-0.14375
+\r t
+\a mouseAddPt(t)
+\i -1.5375:-0.1375
+\r t
+\a mouseAddPt(t)
+\i -1.25625:0.025
+\r t
+\a mouseAddPt(t)
+\i -1.24375:0.03125
+\r t
+\a mouseAddPt(t)
+\i -1.2375:0.06875
+\r t
+\a mouseAddPt(t)
+\i -0.925:-0.39375
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a schHiCreateWire(0.0)
+\p > 
+\a mouseAddPt(t)
+\i -1.23125:0.0375
+\r t
+\a mouseAddPt(t)
+\i -1:-0.56875
+\r t
+\a hiUndo()
+\r t
+\a mouseAddPt(t)
+\i -1.2625:0.04375
+\r t
+\a mouseAddPt(t)
+\i -1.26875:0.05625
+\r t
+\a mouseAddPt(t)
+\i -1.25625:0.05625
+\r t
+\a mouseAddPt(t)
+\i -1.2375:0.04375
+\r t
+\a mouseAddPt(t)
+\i -1.54375:0.15
+\r t
+\a mouseAddPt(t)
+\i -1.56875:-0.1125
+\r t
+\a mouseAddPt(t)
+\i -1.5375:-0.15625
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -1.56875:-0.15
+\r t
+\a mouseAddPt(t)
+\i -1.55:-0.26875
+\r t
+\a mouseAddPt(t)
+\i -1.5375:-0.7375
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -1.225:0.025
+\r t
+\a mouseAddPt(t)
+\i -1.4125:-0.31875
+\r t
+\a mouseAddPt(t)
+\i -1.2375:0.03125
+\r t
+\a mouseAddPt(t)
+\i -1.225:0.2125
+\r t
+\a schHiMove()
+\r t
+\a mouseAddPt(t)
+\i -1.2:0.2375
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i -1.2625:0.2375
+\r t
+\a hiUndo()
+\r t
+\a mouseAddPt(t)
+\i -1.3:0.2
+\r t
+\a mouseAddPt(t)
+\i -1.19375:0.25625
+\r t
+\a mouseAddPt(t)
+\i -1.39375:-0.29375
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a hiUndo()
+\r t
+\a mouseAddPt(t)
+\i -1.175:0.2375
+\r t
+\a schHiCopy()
+\r t
+\a mouseAddPt(t)
+\i -1.56875:0.35
+\r t
+\a mouseAddPt(t)
+\i -1.25625:0.24375
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -1.25625:0.0875
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiMove()
+\p > 
+\a mouseAddPt(t)
+\i -0.44375:0.5
+\r t
+\a mouseAddPt(t)
+\i -0.19375:0.51875
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i -1.31875:0.675
+\r t
+\a mouseAddPt(t)
+\i -1.31875:0.5625
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -1.23125:0.425
+\r t
+\a mouseAddPt(t)
+\i -1:0.39375
+\r t
+\a mouseAddPt(t)
+\i -1.025:0.525
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schSingleSelectPt()
+\i -1:0.5625
+\r t
+\a schSingleSelectPt()
+\i -1.0625:0.5625
+\r t
+\a schSingleSelectPt()
+\i -1.5625:0.5625
+\r t
+\a schHiCreateWire(0.0)
+\p > 
+\a mouseAddPt(t)
+\i -1.5375:0.55625
+\r t
+\a mouseAddPt(t)
+\i -1:0.55
+\r t
+\a mouseAddPt(t)
+\i -1.85:0.6875
+\r t
+\a mouseAddPt(t)
+\i -0.96875:0.70625
+\r t
+\a mouseAddPt(t)
+\i -1.2375:0.05625
+\r t
+\a mouseAddPt(t)
+\i -1.24375:-0.14375
+\r t
+\a mouseAddPt(t)
+\i -1.54375:-0.1375
+\r t
+\a mouseAddPt(t)
+\i -1.5375:0.1625
+\r t
+\a mouseAddPt(t)
+\i -1.54375:-0.15625
+\r t
+\a mouseAddPt(t)
+\i -1.875:0.3
+\r t
+\a mouseAddPt(t)
+\i -1.84375:-0.14375
+\r t
+\a mouseAddPt(t)
+\i -1.5375:-0.1375
+\r t
+\a mouseAddPt(t)
+\i -0.43125:-0.2
+\r t
+\a mouseAddPt(t)
+\i -0.20625:-0.2
+\r t
+\a schHiDelete()
+\r t
+\a mouseAddPt(t)
+\i -0.21875:1.375
+\r t
+\a mouseAddPt(t)
+\i -0.43125:1.30625
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i -0.175:1.2625
+\r t
+\a mouseAddPt(t)
+\i 1.38125:1.35625
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->default->checked=nil
+\r nil
+\a schMouseApplyOrFinish()
+\i -1.25:0.0625
+\r t
+\a mouseAddPt(t)
+\i -1.55:0.375
+\r t
+\a mouseAddPt(t)
+\i -1.55:0.375
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->pins->checked=t
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->default->checked=t
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiDefaultAction()
+\i -1.1875:0.1875
+\i -1.1875:0.1875
+\p > 
+\a hiiSetCurrentForm('schDescendForm)
+\r t
+\a hiFormCancel(schDescendForm) 
+\r t
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schInstPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiiSetCurrentForm('schObjPropForm)
+\r t
+\a schObjPropForm->v2->value="1 V"
+\r "1 V"
+\a schObjPropForm->per->value="1"
+\r "1"
+\a schObjPropForm->tr->value="10ps"
+\r "10ps"
+\a schObjPropForm->tr->value="10p s"
+\r "10p s"
+\a schObjPropForm->tf->value="10p"
+\r "10p"
+\a hiFormDone(schObjPropForm)
+\r t
+\a schSingleSelectPt()
+\i 1.1875:-0.5
+\r nil
+\a schHiCreateInst()
+\p > 
+\a hiiSetCurrentForm('schCreateInstForm)
+\r t
+\a schCreateInstForm->cellName->value="cap"
+\r "cap"
+\a schiCreateInstBrowseButtonCB(schCreateInstForm)
+\r t
+\i ddsServSelect("analogLib" "cap" "symbol")
+\a mouseAddPt(t)
+\i 1.35625:0.31875
+\r t
+\a swindow(1)->hiToolbars->schSelectToolbar_1->default->checked=nil
+\r nil
+\a cancelEnterFun()
+\r t
+\r nil
+\a schSingleSelectPt()
+\i 1.375:0.125
+\r t
+\a schSingleSelectPt()
+\i 1.375:0.125
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schInstPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiiSetCurrentForm('schObjPropForm)
+\r t
+\a schObjPropForm->c->value="10f F"
+\r "10f F"
+\a hiFormDone(schObjPropForm)
+\r t
+\a schSingleSelectPt()
+\i 0.625:0.6875
+\r t
+\a schHiCreateWire(0.0)
+\p > 
+\a mouseAddPt(t)
+\i 0.56875:0.675
+\r t
+\a mouseAddPt(t)
+\i 1.38125:0.3125
+\r t
+\a schHiCreateInst()
+\r t
+\a hiiSetCurrentForm('schCreateInstForm)
+\r t
+\a schCreateInstForm->cellName->value="gnd"
+\r "gnd"
+\a hiiToggleEnterForm(schCreateInstForm)
+\r t
+\a mouseAddPt(t)
+\i 1.3875:-0.31875
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a mouseAddPt(t)
+\i 1.3875:-0.075
+\r t
+\a mouseAddPt(t)
+\i 1.3875:-0.2625
+\r t
+\a mouseAddPt(t)
+\i 1.38125:-0.3375
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "NAND3_TB schematic"
+\o Warning: Instances "I0" and "I1" overlap by more than 10 percent.
+\o INFO (SCH-1172): There were 0 errors and 1 warning found in "ELEC402 NAND3_TB schematic".
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o INFO (SCH-1181): "ELEC402 NAND3_TB schematic" saved.
+\r t
+\a schHiCreateWire(0.0)
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schSingleSelectPt()
+\i -1.5625:0.375
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schInstPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a hiiSetCurrentForm('schObjPropForm)
+\r t
+\a schObjPropForm->v2->value="1 V"
+\r "1 V"
+\a schObjPropForm->tr->value="10p"
+\r "10p"
+\a schObjPropForm->tf->value="10p"
+\r "10p"
+\a schObjPropForm->per->value="1"
+\r "1"
+\a hiFormDone(schObjPropForm)
+\r t
+\a schSingleSelectPt()
+\i -1.875:0.4375
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schInstPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a schObjPropForm->v2->value="1 V"
+\r "1 V"
+\a schObjPropForm->tf->value="10p"
+\r "10p"
+\a schObjPropForm->tr->value="10p"
+\r "10p"
+\a schObjPropForm->per->value="1"
+\r "1"
+\a hiFormDone(schObjPropForm)
+\r t
+\a schSingleSelectPt()
+\i 1.4375:1.125
+\r t
+\a schHiMousePopUp()
+\r t
+\a hiPopupDown(schInstPopUp)
+\r t
+\a schHiObjectProperty()
+\r t
+\a schObjPropForm->vdc->value="1"
+\r "1"
+\a hiFormDone(schObjPropForm)
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "NAND3_TB schematic"
+\o Warning: Instances "I0" and "I1" overlap by more than 10 percent.
+\o INFO (SCH-1172): There were 0 errors and 1 warning found in "ELEC402 NAND3_TB schematic".
+\p > 
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o INFO (SCH-1181): "ELEC402 NAND3_TB schematic" saved.
+\r t
+\a _deUpdateMenu('schematicTools 4)
+\r t
+\a deInstallApp(getCurrentWindow() "analogArtist-Schematic")
+\o Loading awv.cxt 
+\o Loading viva.cxt 
+\w *WARNING* (icLic-3) Could not get license Analog_Design_Environment_L
+\p > 
+\a hiDBoxUser(_icLicLicenseQuestionDBox nil 1)
+\r t
+\o *INFO* (icLic-25) License Analog_Design_Environment_XL ("95210") was used to run ADE L.
+\o Loading par.cxt 
+\o Loading socket.cxt 
+\o Loading alvs.cxt 
+\o Loading adexl.cxt 
+\o Loading te.cxt 
+\r t
+\a hiResizeWindow(swindow(3) list(1:29 693:504))
+\r t
+\a hiResizeWindow(swindow(3) list(2:33 694:508))
+\r t
+\a hiResizeWindow(swindow(3) list(2:36 694:511))
+\r t
+\a hiResizeWindow(swindow(3) list(2:37 694:512))
+\r t
+\a hiResizeWindow(swindow(3) list(2:38 694:513))
+\r t
+\a hiResizeWindow(swindow(3) list(3:39 695:514))
+\r t
+\a hiResizeWindow(swindow(3) list(4:41 696:516))
+\r t
+\a hiResizeWindow(swindow(3) list(5:42 697:517))
+\r t
+\a hiResizeWindow(swindow(3) list(5:43 697:518))
+\r t
+\a hiResizeWindow(swindow(3) list(5:44 697:519))
+\r t
+\a hiResizeWindow(swindow(3) list(5:45 697:520))
+\r t
+\a hiResizeWindow(swindow(3) list(8:50 700:525))
+\r t
+\a hiResizeWindow(swindow(3) list(9:52 701:527))
+\r t
+\a hiResizeWindow(swindow(3) list(9:55 701:530))
+\r t
+\a hiResizeWindow(swindow(3) list(9:56 701:531))
+\r t
+\a hiResizeWindow(swindow(3) list(10:58 702:533))
+\r t
+\a hiResizeWindow(swindow(3) list(10:59 702:534))
+\r t
+\a hiResizeWindow(swindow(3) list(12:62 704:537))
+\r t
+\a hiResizeWindow(swindow(3) list(13:63 705:538))
+\r t
+\a hiResizeWindow(swindow(3) list(13:64 705:539))
+\r t
+\a hiResizeWindow(swindow(3) list(14:65 706:540))
+\r t
+\a hiResizeWindow(swindow(3) list(15:69 707:544))
+\r t
+\a hiResizeWindow(swindow(3) list(15:71 707:546))
+\r t
+\a hiResizeWindow(swindow(3) list(17:71 709:546))
+\r t
+\a hiResizeWindow(swindow(3) list(18:71 710:546))
+\r t
+\a hiResizeWindow(swindow(3) list(29:94 721:569))
+\r t
+\a hiResizeWindow(swindow(3) list(30:95 722:570))
+\r t
+\a hiResizeWindow(swindow(3) list(31:95 723:570))
+\r t
+\a hiResizeWindow(swindow(3) list(31:96 723:571))
+\r t
+\a hiResizeWindow(swindow(3) list(31:97 723:572))
+\r t
+\a hiResizeWindow(swindow(3) list(29:97 721:572))
+\r t
+\a sevCopyCellViewVariables('sevSession1)
+\o WARNING (ADE-1010): There are no variables in the cellview.
+\r t
+\a sevCopyCellViewVariables('sevSession1)
+\o WARNING (ADE-1010): There are no variables in the cellview.
+\r t
+\a hiResizeWindow(swindow(3) list(31:97 723:572))
+\r t
+\a hiResizeWindow(swindow(3) list(38:93 730:568))
+\r t
+\a hiResizeWindow(swindow(3) list(85:90 777:565))
+\r t
+\a hiResizeWindow(swindow(3) list(146:81 838:556))
+\r t
+\a hiResizeWindow(swindow(3) list(149:80 841:555))
+\r t
+\a hiResizeWindow(swindow(3) list(149:79 841:554))
+\r t
+\a hiResizeWindow(swindow(3) list(149:78 841:553))
+\r t
+\a hiResizeWindow(swindow(3) list(149:77 841:552))
+\r t
+\a hiResizeWindow(swindow(3) list(149:73 841:548))
+\r t
+\a hiResizeWindow(swindow(3) list(149:71 841:546))
+\r t
+\a hiResizeWindow(swindow(3) list(151:60 843:535))
+\r t
+\a hiResizeWindow(swindow(3) list(151:57 843:532))
+\r t
+\a hiResizeWindow(swindow(3) list(151:55 843:530))
+\r t
+\a hiResizeWindow(swindow(3) list(151:54 843:529))
+\r t
+\a hiResizeWindow(swindow(3) list(151:53 843:528))
+\r t
+\a hiResizeWindow(swindow(3) list(151:51 843:526))
+\r t
+\a hiResizeWindow(swindow(3) list(151:47 843:522))
+\r t
+\a hiResizeWindow(swindow(3) list(151:33 843:508))
+\r t
+\a hiResizeWindow(swindow(3) list(150:25 842:500))
+\r t
+\a hiResizeWindow(swindow(3) list(149:25 841:500))
+\r t
+\a hiResizeWindow(swindow(3) list(148:25 840:500))
+\r t
+\a hiResizeWindow(swindow(3) list(147:25 839:500))
+\r t
+\a hiResizeWindow(swindow(3) list(148:30 840:505))
+\r t
+\a hiResizeWindow(swindow(3) list(150:37 842:512))
+\r t
+\a hiResizeWindow(swindow(3) list(152:39 844:514))
+\r t
+\a hiResizeWindow(swindow(3) list(153:42 845:517))
+\r t
+\a hiResizeWindow(swindow(3) list(153:45 845:520))
+\r t
+\a hiResizeWindow(swindow(3) list(153:46 845:521))
+\r t
+\a hiResizeWindow(swindow(3) list(153:48 845:523))
+\r t
+\a hiResizeWindow(swindow(3) list(153:49 845:524))
+\r t
+\a hiResizeWindow(swindow(3) list(154:51 846:526))
+\r t
+\a hiResizeWindow(swindow(3) list(154:53 846:528))
+\r t
+\a hiResizeWindow(swindow(3) list(156:54 848:529))
+\r t
+\a hiResizeWindow(swindow(3) list(156:56 848:531))
+\r t
+\a hiResizeWindow(swindow(3) list(157:57 849:532))
+\r t
+\a hiResizeWindow(swindow(3) list(157:58 849:533))
+\r t
+\a hiResizeWindow(swindow(3) list(157:61 849:536))
+\r t
+\a hiResizeWindow(swindow(3) list(157:64 849:539))
+\r t
+\a hiResizeWindow(swindow(3) list(159:69 851:544))
+\r t
+\a hiResizeWindow(swindow(3) list(160:71 852:546))
+\r t
+\a hiResizeWindow(swindow(3) list(161:71 853:546))
+\r t
+\a hiResizeWindow(swindow(3) list(162:71 854:546))
+\r t
+\a hiResizeWindow(swindow(3) list(161:71 853:546))
+\r t
+\a hiResizeWindow(swindow(3) list(160:71 852:546))
+\r t
+\a hiResizeWindow(swindow(3) list(159:71 851:546))
+\r t
+\a hiResizeWindow(swindow(3) list(158:71 850:546))
+\r t
+\a hiResizeWindow(swindow(3) list(157:71 849:546))
+\r t
+\a hiResizeWindow(swindow(3) list(156:87 848:562))
+\r t
+\a hiResizeWindow(swindow(3) list(153:88 845:563))
+\r t
+\a hiResizeWindow(swindow(3) list(153:89 845:564))
+\r t
+\a hiResizeWindow(swindow(3) list(152:90 844:565))
+\r t
+\a hiResizeWindow(swindow(3) list(151:90 843:565))
+\r t
+\a hiResizeWindow(swindow(3) list(149:90 841:565))
+\r t
+\a hiResizeWindow(swindow(3) list(149:91 841:566))
+\r t
+\a hiResizeWindow(swindow(3) list(149:92 841:567))
+\r t
+\a hiResizeWindow(swindow(3) list(148:92 840:567))
+\r t
+\a hiResizeWindow(swindow(3) list(147:92 839:567))
+\r t
+\a hiResizeWindow(swindow(3) list(145:92 837:567))
+\r t
+\a hiResizeWindow(swindow(3) list(144:92 836:567))
+\r t
+\a hiResizeWindow(swindow(3) list(141:92 833:567))
+\r t
+\a hiResizeWindow(swindow(3) list(135:93 827:568))
+\r t
+\a hiResizeWindow(swindow(3) list(126:98 818:573))
+\r t
+\a hiResizeWindow(swindow(3) list(125:98 817:573))
+\r t
+\a hiResizeWindow(swindow(3) list(124:98 816:573))
+\r t
+\a hiResizeWindow(swindow(3) list(123:98 815:573))
+\r t
+\a hiResizeWindow(swindow(3) list(122:98 814:573))
+\r t
+\a hiResizeWindow(swindow(3) list(112:113 804:588))
+\r t
+\a hiResizeWindow(swindow(3) list(99:120 791:595))
+\r t
+\a hiResizeWindow(swindow(3) list(98:120 790:595))
+\r t
+\a hiResizeWindow(swindow(3) list(97:120 789:595))
+\r t
+\a hiResizeWindow(swindow(3) list(96:120 788:595))
+\r t
+\a hiResizeWindow(swindow(3) list(95:120 787:595))
+\r t
+\a hiResizeWindow(swindow(3) list(95:119 787:594))
+\r t
+\a hiResizeWindow(swindow(3) list(95:118 787:593))
+\r t
+\a hiResizeWindow(swindow(3) list(95:117 787:592))
+\r t
+\a hiResizeWindow(swindow(3) list(95:116 787:591))
+\r t
+\a hiResizeWindow(swindow(3) list(95:115 787:590))
+\r t
+\a hiResizeWindow(swindow(3) list(95:114 787:589))
+\r t
+\a hiResizeWindow(swindow(3) list(95:113 787:588))
+\r t
+\a hiResizeWindow(swindow(3) list(95:112 787:587))
+\r t
+\a sevCopyCellViewVariables('sevSession1)
+\o WARNING (ADE-1010): There are no variables in the cellview.
+\r t
+\a sevEditSelectedOuts('sevSession1)
+\p > 
+\a hiiSetCurrentForm('sevOutputsForm1)
+\r t
+\a (sevSetOutputsFromForm 'sevSession1 'schematic)
+\r t
+\a hiSetCurrentWindow(window(4))
+\r t
+\a schSingleSelectPt()
+\i 0.5625:0.6875
+\i 0.5625:0.6875
+\r t
+\a hiFormDone(sevOutputsForm1)
+\r t
+\r t
+\a hiSetCurrentWindow(window(5))
+\r t
+\a sevCopyCellViewVariables('sevSession1)
+\o WARNING (ADE-1010): There are no variables in the cellview.
+\r t
+\a sevEditSelectedAnas('sevSession1)
+\p > modify_plot
+\a _asii_spectre0_analysis_form->asiiAnalysisRadioField->value= "dc"
+\r "dc"
+\a _asii_spectre0_analysis_form->dc_saveOppoint->value= t
+\r t
+\a _asii_spectre0_analysis_form->asiiAnalysisRadioField->value= "tran"
+\r "tran"
+\a hiFormCancel(_asii_spectre0_analysis_form) 
+\r t
+\r nil
+\a hiSetCurrentWindow(window(3))
+\r t
+\a mouseAddPt(t)
+\i 1.15:0.875
+\r t
+\a hiUndo()
+\r t
+\a hiResizeWindow(swindow(3) list(93:112 785:587))
+\r t
+\a hiResizeWindow(swindow(3) list(91:113 783:588))
+\r t
+\a hiResizeWindow(swindow(3) list(90:113 782:588))
+\r t
+\a hiResizeWindow(swindow(3) list(88:113 780:588))
+\r t
+\a hiResizeWindow(swindow(3) list(87:113 779:588))
+\r t
+\a hiResizeWindow(swindow(3) list(83:113 775:588))
+\r t
+\a hiResizeWindow(swindow(3) list(73:117 765:592))
+\r t
+\a hiResizeWindow(swindow(3) list(72:117 764:592))
+\r t
+\a hiResizeWindow(swindow(3) list(70:117 762:592))
+\r t
+\a hiResizeWindow(swindow(3) list(68:117 760:592))
+\r t
+\a hiResizeWindow(swindow(3) list(67:117 759:592))
+\r t
+\a hiResizeWindow(swindow(3) list(65:116 757:591))
+\r t
+\a hiResizeWindow(swindow(3) list(63:114 755:589))
+\r t
+\a hiResizeWindow(swindow(3) list(62:114 754:589))
+\r t
+\a hiResizeWindow(swindow(3) list(61:113 753:588))
+\r t
+\a hiResizeWindow(swindow(3) list(59:113 751:588))
+\r t
+\a hiResizeWindow(swindow(3) list(57:112 749:587))
+\r t
+\a hiResizeWindow(swindow(3) list(57:110 749:585))
+\r t
+\a hiResizeWindow(swindow(3) list(55:109 747:584))
+\r t
+\a hiResizeWindow(swindow(3) list(53:108 745:583))
+\r t
+\a hiResizeWindow(swindow(3) list(52:106 744:581))
+\r t
+\a hiResizeWindow(swindow(3) list(51:106 743:581))
+\r t
+\a hiResizeWindow(swindow(3) list(51:105 743:580))
+\r t
+\a hiResizeWindow(swindow(3) list(50:105 742:580))
+\r t
+\a hiResizeWindow(swindow(3) list(50:104 742:579))
+\r t
+\a hiResizeWindow(swindow(3) list(49:104 741:579))
+\r t
+\a hiResizeWindow(swindow(3) list(49:103 741:578))
+\r t
+\a hiResizeWindow(swindow(3) list(48:103 740:578))
+\r t
+\a hiResizeWindow(swindow(3) list(48:102 740:577))
+\r t
+\a hiResizeWindow(swindow(3) list(38:96 730:571))
+\r t
+\a hiResizeWindow(swindow(3) list(15:91 707:566))
+\r t
+\a hiResizeWindow(swindow(3) list(5:87 697:562))
+\r t
+\a hiResizeWindow(swindow(3) list(0:86 692:561))
+\r t
+\a hiResizeWindow(swindow(3) list(0:85 692:560))
+\r t
+\a hiResizeWindow(swindow(3) list(0:84 692:559))
+\r t
+\a hiResizeWindow(swindow(3) list(0:82 692:557))
+\r t
+\a hiResizeWindow(swindow(3) list(0:83 692:558))
+\r t
+\a hiResizeWindow(swindow(3) list(0:84 692:559))
+\r t
+\a hiResizeWindow(swindow(3) list(0:85 692:560))
+\r t
+\a hiResizeWindow(swindow(3) list(0:86 692:561))
+\r t
+\a hiResizeWindow(swindow(3) list(0:87 692:562))
+\r t
+\a hiResizeWindow(swindow(3) list(0:88 692:563))
+\r t
+\a hiResizeWindow(swindow(3) list(0:89 692:564))
+\r t
+\a hiResizeWindow(swindow(3) list(0:90 692:565))
+\r t
+\a hiResizeWindow(swindow(3) list(0:91 692:566))
+\r t
+\a hiResizeWindow(swindow(3) list(0:92 692:567))
+\r t
+\a hiResizeWindow(swindow(3) list(0:93 692:568))
+\r t
+\a hiResizeWindow(swindow(3) list(0:95 692:570))
+\r t
+\a hiResizeWindow(swindow(3) list(0:96 692:571))
+\r t
+\a hiResizeWindow(swindow(3) list(0:97 692:572))
+\r t
+\a hiResizeWindow(swindow(3) list(0:98 692:573))
+\r t
+\a hiResizeWindow(swindow(3) list(0:99 692:574))
+\r t
+\a hiResizeWindow(swindow(3) list(16:99 708:574))
+\r t
+\a hiResizeWindow(swindow(3) list(17:99 709:574))
+\r t
+\a hiResizeWindow(swindow(3) list(18:101 710:576))
+\r t
+\a hiResizeWindow(swindow(3) list(19:101 711:576))
+\r t
+\a hiResizeWindow(swindow(3) list(20:101 712:576))
+\r t
+\a hiResizeWindow(swindow(3) list(21:101 713:576))
+\r t
+\a hiResizeWindow(swindow(3) list(22:101 714:576))
+\r t
+\a hiResizeWindow(swindow(3) list(23:101 715:576))
+\r t
+\a hiResizeWindow(swindow(3) list(24:102 716:577))
+\r t
+\a hiResizeWindow(swindow(3) list(25:103 717:578))
+\r t
+\a hiResizeWindow(swindow(3) list(26:104 718:579))
+\r t
+\a hiResizeWindow(swindow(3) list(27:104 719:579))
+\r t
+\a hiResizeWindow(swindow(3) list(30:105 722:580))
+\r t
+\a hiResizeWindow(swindow(3) list(31:105 723:580))
+\r t
+\a hiResizeWindow(swindow(3) list(31:106 723:581))
+\r t
+\a hiResizeWindow(swindow(3) list(32:106 724:581))
+\r t
+\a mouseAddPt(t)
+\i 0.14375:0.93125
+\r t
+\a schHiVICAndSave()
+\o INFO (SCH-1171): Cross View Check completed with no errors.
+\o INFO (SCH-1181): "ELEC402 NAND3 symbol" saved.
+\r t
+\a cancelEnterFun()
+\r t
+\r nil
+\a schHiVICAndSave()
+\o INFO (SCH-1171): Cross View Check completed with no errors.
+\o INFO (SCH-1181): "ELEC402 NAND3 symbol" saved.
+\r t
+\a hiSetCurrentWindow(window(4))
+\r t
+\a schHiCheckAndSave()
+\o INFO (SCH-1170): Extracting "NAND3_TB schematic"
+\o Warning: Instances "I0" and "I1" overlap by more than 10 percent.
+\o INFO (SCH-1172): There were 0 errors and 1 warning found in "ELEC402 NAND3_TB schematic".
+\p > modify_plot
+\a hiDBoxOK(_schCheckDBox)
+\r t
+\o INFO (SCH-1181): "ELEC402 NAND3_TB schematic" saved.
+\r t
+\# Memory report: Maximum memory size now 30,278 MB at UTC 2019.11.06 05:33:42.151
+\# Memory report: Maximum memory size now 29,651 MB at UTC 2019.11.06 05:56:22.578
+\# Memory report: Maximum memory size now 29,002 MB at UTC 2019.11.06 18:02:33.862
+\# Memory report: Maximum memory size now 28,427 MB at UTC 2019.11.06 18:10:23.876
+\# Available memory:         27,900 MB at UTC 2019.11.06 18:11:03.877
+\# Memory report: Maximum memory size now 27,852 MB at UTC 2019.11.06 18:20:53.893
+\# Memory report: Maximum memory size now 28,536 MB at UTC 2019.11.06 18:30:23.911
+\# Memory report: Maximum memory size now 27,966 MB at UTC 2019.11.06 18:35:23.920
+\# Memory report: Maximum memory size now 28,623 MB at UTC 2019.11.06 19:04:43.965
+\# Memory report: Maximum memory size now 28,009 MB at UTC 2019.11.06 20:41:24.123
+\# Memory report: Maximum memory size now 28,571 MB at UTC 2019.11.06 20:42:34.126
+\# Memory report: Maximum memory size now 29,229 MB at UTC 2019.11.07 01:15:24.547
+\# Memory report: Maximum memory size now 28,568 MB at UTC 2019.11.07 01:30:04.568
+\# Memory report: Maximum memory size now 29,148 MB at UTC 2019.11.07 06:54:25.098
+\# Memory report: Maximum memory size now 28,524 MB at UTC 2019.11.07 09:42:05.371
+\# Memory report: Maximum memory size now 27,898 MB at UTC 2019.11.07 18:35:46.478
+\# Memory report: Maximum memory size now 27,277 MB at UTC 2019.11.07 18:55:56.509
+\# Memory report: Maximum memory size now 28,054 MB at UTC 2019.11.07 19:03:56.523
+\# Memory report: Maximum memory size now 28,692 MB at UTC 2019.11.07 20:49:36.690
+\# Memory report: Maximum memory size now 29,264 MB at UTC 2019.11.07 21:24:16.746
+\# Memory report: Maximum memory size now 28,610 MB at UTC 2019.11.07 21:33:46.760
+\# Memory report: Maximum memory size now 29,219 MB at UTC 2019.11.07 21:49:16.790
+\# Memory report: Maximum memory size now 30,241 MB at UTC 2019.11.07 21:50:16.792
+\# Available memory:         32,186 MB at UTC 2019.11.07 21:51:36.794
+\# Memory report: Maximum memory size now 32,495 MB at UTC 2019.11.07 21:51:36.794
+\# Memory report: Maximum memory size now 33,486 MB at UTC 2019.11.07 21:52:46.796
+\# Memory report: Maximum memory size now 34,476 MB at UTC 2019.11.07 21:53:16.797
+\# Memory report: Maximum memory size now 33,780 MB at UTC 2019.11.07 22:09:06.822
+\# Memory report: Maximum memory size now 33,088 MB at UTC 2019.11.07 22:19:46.839
+\# Memory report: Maximum memory size now 33,897 MB at UTC 2019.11.07 22:33:56.862
+\# Memory report: Maximum memory size now 33,205 MB at UTC 2019.11.07 23:14:36.930
+\# Memory report: Maximum memory size now 33,865 MB at UTC 2019.11.08 01:15:27.117
+\# Memory report: Maximum memory size now 33,195 MB at UTC 2019.11.08 17:58:39.273
+\# Memory report: Maximum memory size now 32,536 MB at UTC 2019.11.08 18:41:19.335
+\# Memory report: Maximum memory size now 31,825 MB at UTC 2019.11.08 21:03:49.545
+\# Memory report: Maximum memory size now 32,494 MB at UTC 2019.11.08 21:20:19.567
+\# Memory report: Maximum memory size now 33,703 MB at UTC 2019.11.08 23:15:29.756
+\# Memory report: Maximum memory size now 32,992 MB at UTC 2019.11.08 23:19:49.764
+\e IO Error 104 (Connection reset by peer) on Display ":1037.0"
+\e Aborting due to fatal X IO error.
+\w *WARNING* Process was terminated with SIGABRT signal
+\o Local time (crash) Friday 08 November 2019, 03:23:46 PM
+\o ADE signal handler caught fatal signal '6'
+\o Loading adpServer.cxt 
+\o INFO (DB-170018): (dbPanic) dumping stack
+\o libvirtuos_sh.so:voStackTrace+85()
+\o virtuoso:dbPanic+49()
+\o libvirtuos_sh.so:voDoAbortFuncs+36()
+\o libvirtuos_sh.so:voSigAbortInfo+157()
+\# Memory report: using         392 MB, process size 1,195 MB at UTC 2019.11.08 23:23:48.170
+\o libpthread.so.0:__restore_rt+0()
+\o libc.so.6:gsignal+53()
+\o libc.so.6:abort+373()
+\o virtuoso:gliXIOErrorHandler+415()
+\o libX11.so.6:_XIOError+78()
+\o libX11.so.6:_XEventsQueued+125()
+\o libX11.so.6:XCheckTypedEvent+142()
+\o libQtGui.so.4:_ZN12QApplication15x11ProcessEventEP7_XEvent+3535()
+\o virtuoso:_ZL25hiqmotif_event_dispatcherP7_XEvent+2149()
+\o libXt.so.6:XtDispatchEvent+180()
+\o virtuoso:hiiProcessEvent+860()
+\o virtuoso:_ZN12cdsHiqtMotif13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE+172()
+\o libQtCore.so.4:_ZN16QCoreApplication13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE+47()
+\o virtuoso:hiiFillCIWInPortCB+965()
+\o libil_sh.so:iliBGetc+91()
+\o libil_sh.so:input+131()
+\o libil_sh.so:ilyylook+254()
+\o libil_sh.so:ilyylex+47()
+\o libil_sh.so:ilyyparse+1348()
+\o libil_sh.so:ilReadport+612()
+\o libil_sh.so:iliTopLevel+799()
+\o virtuoso:hiiSubEnterEventShell+706()
+\o virtuoso:_Z23hiiEnterLineCircleShellP9_hiWindowP13_hiEFunStruct19hiEnterFunctionType+552()
+\o virtuoso:hiEnterPoints+58()
+\o virtuoso:schHiCreatePin+534()
+\o virtuoso:schHifCreatePin+194()
+\o libil_sh.so:iliVcodeEval2+7675()
+\o libil_sh.so:ilxSkillEval2+187()
+\o libil_sh.so:_ilTopLevelSet+403()
+\o libil_sh.so:ilxTopLevelCmd+292()
+\o virtuoso:hiiPassCmdToIL+218()
+\o virtuoso:_ZL10processCmdP14queueCmdStruct+310()
+\o virtuoso:_Z22hiiProcessEnqueuedCmdsv+369()
+\o virtuoso:hiiProcessEvent+311()
+\o virtuoso:_ZN12cdsHiqtMotif13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE+172()
+\o libQtCore.so.4:_ZN16QCoreApplication13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE+47()
+\o virtuoso:hiiFillCIWInPortCB+965()
+\o libil_sh.so:iliBGetc+91()
+\o libil_sh.so:input+131()
+\o libil_sh.so:ilyylook+254()
+\o libil_sh.so:ilyylex+47()
+\o libil_sh.so:ilyyparse+1348()
+\o libil_sh.so:ilReadport+612()
+\o libil_sh.so:iliTopLevel+799()
+\o virtuoso:hiMainLoop+1089()
+\o virtuoso:_ZN3rde15startHiMainLoopEv+5989()
+\o virtuoso:Tcl_Main+377()
+\o virtuoso:_ZN17TclCommandAdaptor8mainLoopEiPPcPKcRKSt6vectorI9ctuStringSaIS5_EEPFvvE+699()
+\o virtuoso:_Z11finaleEntryiPPcPKcbP16finaleAppHarness+6881()
+\o virtuoso:_Z12rdeStartMainiPPc+43()
+\o virtuoso:main+1110()
+\o libc.so.6:__libc_start_main+256()
+\o virtuoso:_start+41()
+\o INFO (DB-120006): 'virtuoso' exited unexpectedly. Panic files have been created for the cellviews that 
+\o were opened in edit mode. For the list of these panic files, see the panic log:
+\o /ubc/ece/home/ugrads/l/l6w0b/panic.log.ssh-soc.ece.ubc.ca.54960
+\o To restore a cellview using its panic file:
+\o 1. Open the cellview with the recovered data using 'dbOpenPanicCellView'.
+\o    Example: 'cellview = dbOpenPanicCellView("lib" "cell" "view")'.
+\o    The cellview opens in read-only mode.
+\o 2. Reopen the cellview in append mode using 'dbReopen(cellview "a")'.
+\o 3. Restore the recovered data to the cellview using 'dbSave(cellview)'.
+\o    To save the recovered data to a different cellview, use
+\o    'dbSave(cellview "otherlib" "cell" "view")' with the desired
+\o    library, cell, and view information.
+\o 4. Remove the cellview from virtual memory using 'dbPurge(cellview)'.
+\o    You can now open the restored cellview.

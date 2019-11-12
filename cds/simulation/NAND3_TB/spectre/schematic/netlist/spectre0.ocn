@@ -1,0 +1,25 @@
+simulator( 'spectre )
+design(	 "/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/simulation/NAND3_TB/spectre/schematic/netlist/netlist")
+resultsDir( "/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/simulation/NAND3_TB/spectre/schematic" )
+modelFile( 
+    '("/ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/../models/spectre/gpdk045.scs" "tt")
+)
+analysis('tran ?stop "3n"  )
+desVar(	  "T" 1n	)
+envOption(
+	'analysisOrder  list("tran") 
+)
+temp( 27 ) 
+run()
+modelFile( 
+    '("/ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/../models/spectre/gpdk045.scs" "tt")
+)
+run()
+modelFile( 
+    '("/ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/../models/spectre/gpdk045.scs" "tt")
+)
+run()
+modelFile( 
+    '("/ubc/ece/data/cmc2/kits/AMSKIT616_GPDK/tech/gpdk045_v_4_0/gpdk045/../models/spectre/gpdk045.scs" "tt")
+)
+run()

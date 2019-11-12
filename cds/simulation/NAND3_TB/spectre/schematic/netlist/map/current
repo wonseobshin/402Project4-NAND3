@@ -1,0 +1,28 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "NAND3_TB"
+  repList "spectre cmos_sch cmos.sch schematic veriloga"
+  stopList "spectre"
+  globalList "gnd!"
+  hierDelim "."
+  netlistDir "/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/simulation/NAND3_TB/spectre/schematic/netlist"
+ )
+( instViewTable
+ )
+( net
+( "gnd!" "0" )
+ )
+( inst
+ )
+( model
+( "ELEC402/NAND3/schematic" "NAND3" )
+( "ELEC402/NAND3_TB/schematic" "NAND3_TB" )
+ )
+( term
+ )
+( param
+ )
+( "NAND3" "ihnl/cds0/map" )
+( "NAND3_TB" "ihnl/cds1/map" )
+ )

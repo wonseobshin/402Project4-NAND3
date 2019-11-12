@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      l6w0b
+HostName                       ssh-soc.ece.ubc.ca
+ProcessIdentifier              31334
+ProcessCreationTime_UTC        1573348408
+ProcessCreationTime_Readable   Sat Nov  9 17:13:28 2019 PST
+AppIdentifier                  /CMC/tools/cadence/IC06.16.090_lnx86/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/ELEC402/NAND3/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Nov  9 17:18:07 2019 PST

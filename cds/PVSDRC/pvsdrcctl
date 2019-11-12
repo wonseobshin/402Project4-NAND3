@@ -1,0 +1,13 @@
+text_depth -primary;
+virtual_connect -colon no;
+virtual_connect -semicolon yes;
+virtual_connect -noname;
+virtual_connect -report no;
+report_summary -drc "NAND3.sum" -replace;
+max_results -drc 1000;
+max_vertex -drc 4096;
+results_db -drc "/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.drc_errors.ascii" -ascii;
+keep_layers -none;
+abort_on_layout_error yes;
+layout_format gdsii;
+layout_path "/ubc/ece/home/ugrads/l/l6w0b/Desktop/Cadence_49820153/cds/PVSDRC/NAND3.gds";
