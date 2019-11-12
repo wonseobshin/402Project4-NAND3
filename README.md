@@ -32,3 +32,7 @@ Area x Delay:  334um<sup>2</sup>ps
 ![NAND3](https://github.com/wonseobshin/402Project4-NAND3/blob/master/schematic.JPG)
 
 ![TB](https://github.com/wonseobshin/402Project4-NAND3/blob/master/TB.JPG)
+
+## Answers to Questions
+
+![rest](https://github.com/wonseobshin/402Project4-NAND3/blob/master/ELEC%20402%20nand3.pdf)
