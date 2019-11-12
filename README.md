@@ -6,13 +6,15 @@ Won Seob Shin
 
 NAND3 Simulation and Layout
 -------
-Width:
+Width: 1.12um
 
-Length:
+Length: 1.755um
 
-Area:
+Area: 1.9656um<sup>2</sup>
 
-Delay:
+Delay: 170ps
+
+Area x Delay:  334um<sup>2</sup>ps
 
 ### Layout
 
@@ -23,6 +25,7 @@ Delay:
 ![Delay](https://github.com/wonseobshin/402Project4-NAND3/blob/master/Capture.JPG)
 
 ![DelayZoomed](https://github.com/wonseobshin/402Project4-NAND3/blob/master/ruler%20difference.JPG)
+#### We can see that Tphl is 174ps and that Tplh = 170, which is within 5ps required.
 
 ### Cadence Schematic
 
